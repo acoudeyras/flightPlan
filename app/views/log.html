@@ -1,0 +1,36 @@
+<div class="panel panel-default">
+
+  <logstep cat-name="Ultrabooks"></logstep>
+
+
+  <div class="panel-heading">
+    <h3 class="panel-title">Step from {{airport}}</h3>
+  </div>
+
+  <div class="panel-body">
+    <form accept-charset="UTF-8" role="form">
+      <fieldset>
+
+        <label>Airport</label>
+        <div class="form-group">
+          <span ng-hide="editing">{{airport}}</span>
+          <select ui-select2="select2Options" ng-model="airport" ng-required="true" ng-show="editing" data-placeholder="Pick an airport">
+            <option value=""></option>
+            <option ng-repeat="airport in airports" value="{{airport}}">{{airport}}</option>
+          </select>
+        </div>
+
+        <label>Comment</label>
+        <div class="form-group">
+          <div btf-markdown="comment" ng-click="toggleEdit()" ng-hide="editing">
+          </div>
+          <textarea class="form-control" placeholder="Comment" name="comment" ng-show="editing" ng-model="comment"></textarea>
+        </div>
+        <input class="btn btn-default" ng-click="toggleEdit()" value="Edit" ng-hide="editing">
+        <input class="btn btn-success" ng-click="toggleEdit()" value="Save" ng-show="editing">
+        <input class="btn btn-default" ng-click="toggleEdit()" value="Cancel" ng-show="editing">
+
+      </fieldset>
+    </form>
+  </div>
+</div>
