@@ -1,13 +1,15 @@
-'use strict'
+(->
+  'use strict'
 
-angular.module('flightPlanApp').controller('MainCtrl', ($scope) ->
+  angular.module('flightPlanApp').controller('MainCtrl', ($scope) ->
 
-  $scope.awesomeThings = [
-    'HTML5 Boilerplate'
-    'AngularJS'
-    'Karma'
-  ]
+    $scope.awesomeThings = [
+      'HTML5 Boilerplate'
+      'AngularJS'
+      'Karma'
+    ]
 
-  $scope.hello = 'world'
+    $scope.hello = 'world'
 
-)
+  )
+)()

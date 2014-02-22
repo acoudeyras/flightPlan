@@ -1,14 +1,20 @@
-'use strict'
+(->
+  'use strict'
 
-angular.module('flightPlanApp').controller('LogCtrl', ($scope) ->
+  class LogCtrl
 
-  $scope.airports = ['world', 'a']
+    @$inject: ['$scope', 'airportsService']
 
-  $scope.$watch 'airport', (airport) ->
-    console.log airport
+    constructor: (@scope, @airportsService) ->
+      @scope.airports = ['lfpz', 'lfyr', 'lyjh']
+      @scope.steps = [
+        { airport: 'lfpz', comment: '' }
+        { airport: 'lfyr', comment: 'stop here' }
+      ]
+      @scope.$watch 'airport', (airport) ->
+        console.log airport
 
 
-  $scope.comment = ''
-  $scope.editing = true
-  $scope.toggleEdit = -> $scope.editing = !$scope.editing
-)
+  angular.module('flightPlanApp').controller 'LogCtrl', LogCtrl
+
+)()
