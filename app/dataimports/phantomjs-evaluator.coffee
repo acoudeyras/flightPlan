@@ -2,19 +2,32 @@
 
 phantom = require 'node-phantom'
 
-exports.loadPage = (url, evalCb, resultCb) ->
-  phantom.create((err,ph) ->
+page = null
+ph = null
+
+init = (callback) ->
+  return callback(page) if page isnt null
+
+  phantom.create((err,phCreated) ->
     return callback(err) if err
 
-    ph.createPage((err,page) ->
+    ph = phCreated
+    ph.createPage((err,pageCreated) ->
       return callback(err) if err
 
-      page.open(url, (err,status) ->
-        return callback(err) if err
-        
-        page.evaluate evalCb, (err,result) ->
-          ph.exit()
-          resultCb err, result
-      )
+      page = pageCreated
+      callback()
+    )
+  )  
+
+exports.loadPage = (url, evalCb, resultCb) ->
+  init(->
+    page.open(url, (err,status) ->
+      return callback(err) if err
+      
+      page.evaluate(evalCb, resultCb)
     )
   )
+
+exports.exit = -> ph.exit()
+

@@ -9,33 +9,45 @@ airportsUrl = 'http://www.jprendu.fr/aeroweb/_private/21_JpRNavMaster/NavMasterS
 vorsUrl = 'http://www.jprendu.fr/aeroweb/_private/21_JpRNavMaster/NavMasterSearch.php?SearchMode=V&ButtonType=5&CountryCode=LF&Departement=NA&Langue=Fr&Orig=Advanced_Fr&Retry=0&SortedOn=Name&SortDesc=ASC';
 
 extractRowsFromPage = function() {
-  var column, currentColumn, currentRow, dataTable, field, fields, readUrl, result, row, rowJson, rows, skip, _i, _j, _len, _len1, _ref;
+  var getRows, readUrl, rowToObj, table;
 
+  getRows = function(table, skip, transform) {
+    var currentRow, result, row, rowObj, rows, _i, _len;
+
+    result = [];
+    rows = table.children[0].children;
+    skip = skip || 0;
+    currentRow = -1;
+    for (_i = 0, _len = rows.length; _i < _len; _i++) {
+      row = rows[_i];
+      currentRow++;
+      if (currentRow < skip) {
+        continue;
+      }
+      rowObj = transform(row.children);
+      result.push(rowObj);
+    }
+    return result;
+  };
   readUrl = function(columnNode) {
-    var href, link;
+    var href, link, rootUrl;
 
-    link = column.children[0].children[0];
+    rootUrl = 'http://www.jprendu.fr/aeroweb/_private/21_JpRNavMaster/';
+    link = columnNode.children[0].children[0];
     href = link.outerHTML.split('onclick="window.open(')[1];
     href = href.substring(1, href.length);
-    return href.split("',")[0];
+    href = href.split("',")[0];
+    href = href.replace(new RegExp('&amp;', 'g'), '&');
+    return rootUrl + href;
   };
-  fields = ['country', 'code', 'category', 'info', 'altitude', 'latitude', 'longitude'];
-  result = [];
-  dataTable = document.querySelectorAll('table')[1];
-  rows = dataTable.children[0].children;
-  skip = 2;
-  currentRow = -1;
-  for (_i = 0, _len = rows.length; _i < _len; _i++) {
-    row = rows[_i];
-    currentRow++;
-    if (currentRow < skip) {
-      continue;
-    }
-    currentColumn = 0;
+  rowToObj = function(columns) {
+    var column, currentColumn, field, fields, rowJson, _i, _len;
+
     rowJson = {};
-    _ref = row.children;
-    for (_j = 0, _len1 = _ref.length; _j < _len1; _j++) {
-      column = _ref[_j];
+    fields = ['country', 'code', 'category', 'info', 'altitude', 'latitude', 'longitude'];
+    currentColumn = 0;
+    for (_i = 0, _len = columns.length; _i < _len; _i++) {
+      column = columns[_i];
       field = fields[currentColumn];
       rowJson[field] = column.innerText;
       if (field === 'code') {
@@ -43,9 +55,10 @@ extractRowsFromPage = function() {
       }
       currentColumn++;
     }
-    result.push(rowJson);
-  }
-  return result;
+    return rowJson;
+  };
+  table = document.querySelectorAll('table')[1];
+  return getRows(table, 2, rowToObj);
 };
 
 findRows = function(url, callback) {
