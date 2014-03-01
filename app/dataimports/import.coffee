@@ -23,7 +23,7 @@ readPoints = (points, current, next) ->
   pointFilePath = "./data/point-#{point.code}.json"
 
   fs.exists pointFilePath, (exist) ->
-    return readPoints points, ++current, next if exist
+    #return readPoints points, ++current, next if exist
     console.log pointFilePath
     pointRetriever.getPoint point, (err, pointDetail) ->
       if err

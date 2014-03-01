@@ -2,16 +2,12 @@
 
 phantomEval = require './phantomjs-evaluator'
 
-airportCategories = ['CAP', 'CAP/Mil']
-vorsCategories = ['VOR', 'VOR/DME', 'VORTAC']
-allCategories = airportCategories.concat vorsCategories
-
 extract =  ->
 
   airportCategories = ['CAP', 'CAP/Mil']
   vorsCategories = ['VOR', 'VOR/DME', 'VORTAC']
 
-  aiportMapping = 
+  airportMapping = 
     'Déclinaison': 'declination'
     'Altitude': 'altitude'
     'CONTACTS Téléphoniques': 'phoneContacts'
@@ -28,16 +24,39 @@ extract =  ->
     'Longitude': 'long'
     'Nom': 'name'
     'Type': 'typeLng'
-
+    'Remarques': 'remarks'
+    'Restaurant': 'restaurant'
+    'Restaurant N° 1': 'restaurant'
+    'Restaurant N° 2': 'restaurant'
+    'Hôtel-Restaurant': 'hotelRestaurant'
+    'F.I.S.': 'fis'
+    'Frequence Sol': 'groundFrequency'
+    'Fréquence ATIS': 'frequencyAtis'
+    'Téléphone ATIS': 'atisPhone'
+    'Afficher la vue SATELLITE\navec Google Maps\n(image de Google Earth)': null
+    'Catégorie': null
+    'Code': null
+    'Créé/Modifié par': null
+    'Origine des données': null
+    'Region du monde': null
 
   vorMapping =
     'Date MàJ': 'updated'
+    'Code Pays': 'countryCode'
+    'Altitude': 'altitude'
     'Déclinaison': 'declination'
     'Fréquence principale': 'frequency'
     'Latitude': 'lat'
     'Longitude': 'long'
     'Nom': 'name'
     'Type': 'typeLng'
+    'Afficher la vue SATELLITE\navec Google Maps\n(image de Google Earth)': null
+    'Catégorie': null
+    'Code': null
+    'Créé/Modifié par': null
+    'Origine des données': null
+    'Region du monde': null
+
 
   typeReader = (columns, rowObj) ->
     return if columns.length < 2
@@ -53,11 +72,19 @@ extract =  ->
       name = name.innerText.trim()
       value = value.innerText.trim()
       colName = mapping[name]
+      return if colName is null
 
       if not colName
         rowObj['_' + name] = value
       else
-        rowObj[colName] = value
+        currentValue = rowObj[colName]
+        if not currentValue?
+          rowObj[colName] = value
+        else
+          if Array.isArray currentValue
+            currentValue.push value
+          else
+            rowObj[colName] = [currentValue, value]
 
   findType = (table) ->
     found = readRows table, 2, typeReader
@@ -68,8 +95,8 @@ extract =  ->
     if vorsCategories.indexOf(type) != -1
       colsReader vorMapping
     else if airportCategories.indexOf(type) != -1
-      colsReader aiportMapping
-    else null
+      colsReader airportMapping
+    else colsReader {}
 
   readRows = (table, skip, columnsReader) ->
     result = {}
@@ -89,9 +116,6 @@ extract =  ->
 
 
 exports.getPoint = (point, callback) ->
-  
-  if point.category not in allCategories
-    return callback("Category #{point.category} not yet supported", null)
 
   phantomEval.loadPage(
     point.url,

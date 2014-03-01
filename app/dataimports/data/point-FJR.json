@@ -1,5 +1,5 @@
 {
-	"altitude": "7",
+	"altitude": "7 ft",
 	"category": "VOR/DME",
 	"code": "FJR",
 	"country": "LF",
@@ -7,10 +7,12 @@
 	"latitude": "+43.58",
 	"longitude": "+3.97",
 	"url": "http://www.jprendu.fr/aeroweb/_private/21_JpRNavMaster/NavMasterDetails.php?Lg=Fr&RN=58&RM=92&AccessDB=&R2F=0;a4o6;a4o7;a4ov;a4pv;a4qe;a4sa;a4st;a4t9;a4tp;a4ut;a4vo;a4w2;a4wa;a4wc;a6h8;a4xq;a4yq;a4zb;a50g;a50w;a51m;a51r;a52g;a53c;a53q;a54m;a54x;a564;a56e;a56i;a56z;a578;a580;a584;a58j;a593;a59r;a5au;a5bw;a5dm;a5co;a5df;a5et;a5fd;a5g7;a5gt;a5gz;a5i1;a5ip;a5jl;a5jt;a5k5;a5k9;a5ll;a5ly;a5m0;a5ma;a5ml;a5ms;a5n1;a5n3;a5ns;a5oc;a5oj;a5ol;a5op;a5qp;a5qq;a5qx;a5qz;a5ry;a5sb;a5sk;a5t2;a5to;a5tu;a5ty;a5u8;a5us;a5v5;a5vp;6ec7;a5xx;a5zb;a5zd;a60l;a60x;a614;a61l;a62l;a62s;a64b",
+	"countryCode": "LF (France)",
 	"declination": "-0,4°",
 	"frequency": "114.45",
 	"lat": "N43°34'41\" (43,57830)",
 	"long": "E003°58'28\" (3,97472)",
 	"name": "Montpellier Méditerranée",
+	"typeLng": "Aides Radionavigation",
 	"updated": "01/01/2010"
 }

@@ -37,9 +37,6 @@ readPoints = function(points, current, next) {
   point = points[current];
   pointFilePath = "./data/point-" + point.code + ".json";
   return fs.exists(pointFilePath, function(exist) {
-    if (exist) {
-      return readPoints(points, ++current, next);
-    }
     console.log(pointFilePath);
     return pointRetriever.getPoint(point, function(err, pointDetail) {
       if (err) {
