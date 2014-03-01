@@ -19,4 +19,4 @@ exports.request = (options, callback) ->
     )
 
   req.on 'error', returnError
-  req.end()  
+  req.end()

@@ -22,7 +22,7 @@ extractRowsFromPage = ->
     result
 
   readUrl = (columnNode) ->
-    rootUrl = 'http://www.jprendu.fr/aeroweb/_private/21_JpRNavMaster/'    
+    rootUrl = 'http://www.jprendu.fr/aeroweb/_private/21_JpRNavMaster/'
     link = columnNode.children[0].children[0]
     href = link.outerHTML.split('onclick="window.open(')[1]
     href = href.substring 1, href.length
@@ -37,7 +37,7 @@ extractRowsFromPage = ->
 
     for column in columns
       field = fields[currentColumn]
-      rowJson[field] = column.innerText
+      rowJson[field] = column.innerText.trim()
       if field is 'code'
         rowJson.url = readUrl column
       currentColumn++

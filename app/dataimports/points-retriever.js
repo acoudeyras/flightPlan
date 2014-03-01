@@ -49,7 +49,7 @@ extractRowsFromPage = function() {
     for (_i = 0, _len = columns.length; _i < _len; _i++) {
       column = columns[_i];
       field = fields[currentColumn];
-      rowJson[field] = column.innerText;
+      rowJson[field] = column.innerText.trim();
       if (field === 'code') {
         rowJson.url = readUrl(column);
       }

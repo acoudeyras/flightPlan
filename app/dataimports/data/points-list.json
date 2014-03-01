@@ -2,7 +2,7 @@
 	{
 		"altitude": "220",
 		"category": "VOR/DME",
-		"code": " ABB ",
+		"code": "ABB",
 		"country": "LF",
 		"info": "Abbeville Frq:108.45",
 		"latitude": "+50.14",
@@ -12,7 +12,7 @@
 	{
 		"altitude": "896",
 		"category": "VOR/DME",
-		"code": " AGN ",
+		"code": "AGN",
 		"country": "LF",
 		"info": "Agen Gaudonville Frq:114.8",
 		"latitude": "+43.89",
@@ -22,7 +22,7 @@
 	{
 		"altitude": "2 142",
 		"category": "VOR/DME",
-		"code": " AJO ",
+		"code": "AJO",
 		"country": "LF",
 		"info": "Ajaccio Coti Chiavari Frq:114.8",
 		"latitude": "+41.77",
@@ -32,7 +32,7 @@
 	{
 		"altitude": "387",
 		"category": "VOR/DME",
-		"code": " AMB ",
+		"code": "AMB",
 		"country": "LF",
 		"info": "Amboise Frq:113.7",
 		"latitude": "+47.43",
@@ -42,7 +42,7 @@
 	{
 		"altitude": "304",
 		"category": "VOR",
-		"code": " ANG ",
+		"code": "ANG",
 		"country": "LF",
 		"info": "Angers Marcé Frq:113.0",
 		"latitude": "+47.54",
@@ -52,7 +52,7 @@
 	{
 		"altitude": "159",
 		"category": "VOR/DME",
-		"code": " AVN ",
+		"code": "AVN",
 		"country": "LF",
 		"info": "Avignon Pujault Frq:114.6",
 		"latitude": "+44.00",
@@ -62,7 +62,7 @@
 	{
 		"altitude": "886",
 		"category": "VOR/DME",
-		"code": " BLM ",
+		"code": "BLM",
 		"country": "LF",
 		"info": "Bâle Mulhouse Frq:117.45",
 		"latitude": "+47.63",
@@ -72,7 +72,7 @@
 	{
 		"altitude": "36",
 		"category": "VOR/DME",
-		"code": " BTA ",
+		"code": "BTA",
 		"country": "LF",
 		"info": "Bastia Poretta Frq:114.15",
 		"latitude": "+42.57",
@@ -82,7 +82,7 @@
 	{
 		"altitude": "301",
 		"category": "VOR",
-		"code": " BVS ",
+		"code": "BVS",
 		"country": "LF",
 		"info": "Beauvais Tillé Frq:115.9",
 		"latitude": "+49.44",
@@ -92,7 +92,7 @@
 	{
 		"altitude": "276",
 		"category": "VOR/DME",
-		"code": " BTZ ",
+		"code": "BTZ",
 		"country": "LF",
 		"info": "Biarritz Bayonne Anglet Frq:114.15",
 		"latitude": "+43.47",
@@ -102,7 +102,7 @@
 	{
 		"altitude": "210",
 		"category": "VOR/DME",
-		"code": " BMC ",
+		"code": "BMC",
 		"country": "LF",
 		"info": "Bordeaux Mérignac Frq:113.75",
 		"latitude": "+44.83",
@@ -112,7 +112,7 @@
 	{
 		"altitude": "584",
 		"category": "VOR",
-		"code": " BNE ",
+		"code": "BNE",
 		"country": "LF",
 		"info": "Boulogne Sur Mer Frq:113.8",
 		"latitude": "+50.62",
@@ -122,7 +122,7 @@
 	{
 		"altitude": "487",
 		"category": "VOR/DME",
-		"code": " BSN ",
+		"code": "BSN",
 		"country": "LF",
 		"info": "Boursonne Frq:114.85",
 		"latitude": "+49.19",
@@ -132,7 +132,7 @@
 	{
 		"altitude": "289",
 		"category": "VOR/DME",
-		"code": " BRY ",
+		"code": "BRY",
 		"country": "LF",
 		"info": "Bray Sur Seine Frq:114.1",
 		"latitude": "+48.41",
@@ -142,7 +142,7 @@
 	{
 		"altitude": "275",
 		"category": "VOR",
-		"code": " CAN ",
+		"code": "CAN",
 		"country": "LF",
 		"info": "Caen Carpiquet Frq:114.45",
 		"latitude": "+49.17",
@@ -152,7 +152,7 @@
 	{
 		"altitude": "275",
 		"category": "VOR",
-		"code": " CEN ",
+		"code": "CEN",
 		"country": "LF",
 		"info": "Caen VOR => CAN Frq:114.45",
 		"latitude": "+49.17",
@@ -162,7 +162,7 @@
 	{
 		"altitude": "299",
 		"category": "VORTAC",
-		"code": " CMB ",
+		"code": "CMB",
 		"country": "LF",
 		"info": "Cambrai Épinoy Frq:112.6",
 		"latitude": "+50.23",
@@ -172,7 +172,7 @@
 	{
 		"altitude": "1 595",
 		"category": "VOR",
-		"code": " CNM ",
+		"code": "CNM",
 		"country": "LF",
 		"info": "Cannes Tanneron Frq:111.4",
 		"latitude": "+43.56",
@@ -182,7 +182,7 @@
 	{
 		"altitude": "561",
 		"category": "VOR/DME",
-		"code": " CAV ",
+		"code": "CAV",
 		"country": "LF",
 		"info": "Chalon Vatry Frq:111.65",
 		"latitude": "+48.78",
@@ -192,7 +192,7 @@
 	{
 		"altitude": "4 783",
 		"category": "VOR/DME",
-		"code": " CBY ",
+		"code": "CBY",
 		"country": "LF",
 		"info": "Chambery Alpes Nord Frq:115.4",
 		"latitude": "+45.88",
@@ -202,7 +202,7 @@
 	{
 		"altitude": "732",
 		"category": "VOR/DME",
-		"code": " CHW ",
+		"code": "CHW",
 		"country": "LF",
 		"info": "Chartres La Loupe Frq:115.2",
 		"latitude": "+48.48",
@@ -212,7 +212,7 @@
 	{
 		"altitude": "450",
 		"category": "VOR/DME",
-		"code": " CAD ",
+		"code": "CAD",
 		"country": "LF",
 		"info": "Chateaudun Frq:115.95",
 		"latitude": "+48.06",
@@ -222,7 +222,7 @@
 	{
 		"altitude": "673",
 		"category": "VOR/DME",
-		"code": " CTL ",
+		"code": "CTL",
 		"country": "LF",
 		"info": "Chatillon Sur Marne Frq:117.6",
 		"latitude": "+49.14",
@@ -232,7 +232,7 @@
 	{
 		"altitude": "1 093",
 		"category": "VOR/DME",
-		"code": " CFA ",
+		"code": "CFA",
 		"country": "LF",
 		"info": "Clermont Fd Auvergne Frq:114.35",
 		"latitude": "+45.79",
@@ -242,7 +242,7 @@
 	{
 		"altitude": "106",
 		"category": "VOR/DME",
-		"code": " CNA ",
+		"code": "CNA",
 		"country": "LF",
 		"info": "Cognac Ch. Bernard Frq:114.65",
 		"latitude": "+45.66",
@@ -252,7 +252,7 @@
 	{
 		"altitude": "486",
 		"category": "VOR/DME",
-		"code": " CLM ",
+		"code": "CLM",
 		"country": "LF",
 		"info": "Coulommiers Voisins Frq:112.9",
 		"latitude": "+48.84",
@@ -262,7 +262,7 @@
 	{
 		"altitude": "325",
 		"category": "VOR",
-		"code": " CRL ",
+		"code": "CRL",
 		"country": "LF",
 		"info": "Creil Frq:109.2",
 		"latitude": "+49.26",
@@ -272,7 +272,7 @@
 	{
 		"altitude": "497",
 		"category": "VOR",
-		"code": " DVL ",
+		"code": "DVL",
 		"country": "LF",
 		"info": "Deauville Normandie Frq:110.2",
 		"latitude": "+49.31",
@@ -282,7 +282,7 @@
 	{
 		"altitude": "362",
 		"category": "VOR",
-		"code": " DPE ",
+		"code": "DPE",
 		"country": "LF",
 		"info": "Dieppe Frq:115.8",
 		"latitude": "+49.93",
@@ -292,7 +292,7 @@
 	{
 		"altitude": "3 027",
 		"category": "VOR",
-		"code": " DGN ",
+		"code": "DGN",
 		"country": "LF",
 		"info": "Digne Frq:113.85",
 		"latitude": "+43.99",
@@ -302,7 +302,7 @@
 	{
 		"altitude": "744",
 		"category": "VOR/DME",
-		"code": " DJL ",
+		"code": "DJL",
 		"country": "LF",
 		"info": "Dijon Longvic Frq:111.45",
 		"latitude": "+47.27",
@@ -312,7 +312,7 @@
 	{
 		"altitude": "213",
 		"category": "VOR/DME",
-		"code": " DIN ",
+		"code": "DIN",
 		"country": "LF",
 		"info": "Dinard Pleurtuit Saint Malo Frq:114.3",
 		"latitude": "+48.59",
@@ -322,7 +322,7 @@
 	{
 		"altitude": "525",
 		"category": "VOR/DME",
-		"code": " EPR ",
+		"code": "EPR",
 		"country": "LF",
 		"info": "Epernon Frq:115.65",
 		"latitude": "+48.63",
@@ -332,7 +332,7 @@
 	{
 		"altitude": "1 154",
 		"category": "VOR",
-		"code": " EPL ",
+		"code": "EPL",
 		"country": "LF",
 		"info": "Épinal Mirecourt Frq:113.0",
 		"latitude": "+48.32",
@@ -342,7 +342,7 @@
 	{
 		"altitude": "499",
 		"category": "VOR",
-		"code": " EVX ",
+		"code": "EVX",
 		"country": "LF",
 		"info": "Évreux Fauville Frq:112.4",
 		"latitude": "+49.03",
@@ -352,7 +352,7 @@
 	{
 		"altitude": "144",
 		"category": "VOR/DME",
-		"code": " FGI ",
+		"code": "FGI",
 		"country": "LF",
 		"info": "Figari Sud Corse Frq:116.7",
 		"latitude": "+41.50",
@@ -362,7 +362,7 @@
 	{
 		"altitude": "979",
 		"category": "VOR",
-		"code": " GAI ",
+		"code": "GAI",
 		"country": "LF",
 		"info": "Gaillac Castelnau Frq:115.8",
 		"latitude": "+43.95",
@@ -372,7 +372,7 @@
 	{
 		"altitude": "1 057",
 		"category": "VOR/DME",
-		"code": " GTQ ",
+		"code": "GTQ",
 		"country": "LF",
 		"info": "Grostenquin Frq:111.25",
 		"latitude": "+48.99",
@@ -382,7 +382,7 @@
 	{
 		"altitude": "85",
 		"category": "VOR/DME",
-		"code": " ITS ",
+		"code": "ITS",
 		"country": "LF",
 		"info": "Istres Frq:112.7",
 		"latitude": "+43.50",
@@ -392,7 +392,7 @@
 	{
 		"altitude": "971",
 		"category": "VOR",
-		"code": " LGL ",
+		"code": "LGL",
 		"country": "LF",
 		"info": "L'Aigle (Laigle) Frq:115.0",
 		"latitude": "+48.79",
@@ -402,7 +402,7 @@
 	{
 		"altitude": "901",
 		"category": "VOR",
-		"code": " LCA ",
+		"code": "LCA",
 		"country": "LF",
 		"info": "La Châtre Frq:112.1",
 		"latitude": "+46.69",
@@ -412,7 +412,7 @@
 	{
 		"altitude": "2 165",
 		"category": "VOR/DME",
-		"code": " LTP ",
+		"code": "LTP",
 		"country": "LF",
 		"info": "La Tour Du Pin Frq:115.55",
 		"latitude": "+45.49",
@@ -422,7 +422,7 @@
 	{
 		"altitude": "200",
 		"category": "VOR/DME",
-		"code": " LVM ",
+		"code": "LVM",
 		"country": "LF",
 		"info": "Le Bourget sur AD Temporaire 30/06/2010 Frq:115.050",
 		"latitude": "+48.97",
@@ -432,7 +432,7 @@
 	{
 		"altitude": "266",
 		"category": "VOR/DME",
-		"code": " LUC ",
+		"code": "LUC",
 		"country": "LF",
 		"info": "Le Luc Le Cannet Frq:113.0",
 		"latitude": "+43.38",
@@ -442,7 +442,7 @@
 	{
 		"altitude": "980",
 		"category": "VOR",
-		"code": " LMB ",
+		"code": "LMB",
 		"country": "LF",
 		"info": "Lembeye Frq:111.8",
 		"latitude": "+43.47",
@@ -452,7 +452,7 @@
 	{
 		"altitude": "175",
 		"category": "VOR/DME",
-		"code": " LEQ ",
+		"code": "LEQ",
 		"country": "LF",
 		"info": "Lille Lesquin Frq:109.0",
 		"latitude": "+50.56",
@@ -462,7 +462,7 @@
 	{
 		"altitude": "1 375",
 		"category": "VOR/DME",
-		"code": " LMG ",
+		"code": "LMG",
 		"country": "LF",
 		"info": "Limoges Frq:114.5",
 		"latitude": "+45.82",
@@ -472,7 +472,7 @@
 	{
 		"altitude": "1 072",
 		"category": "VOR",
-		"code": " LUL ",
+		"code": "LUL",
 		"country": "LF",
 		"info": "Luxeuil Frq:117.1",
 		"latitude": "+47.69",
@@ -482,7 +482,7 @@
 	{
 		"altitude": "820",
 		"category": "VOR/DME",
-		"code": " LSE ",
+		"code": "LSE",
 		"country": "LF",
 		"info": "Lyon St-Exupery (Satolas) Frq:114.75",
 		"latitude": "+45.73",
@@ -492,7 +492,7 @@
 	{
 		"altitude": "771",
 		"category": "VOR/DME",
-		"code": " MRM ",
+		"code": "MRM",
 		"country": "LF",
 		"info": "Marseille Provence Frq:108.8",
 		"latitude": "+43.38",
@@ -502,7 +502,7 @@
 	{
 		"altitude": "650",
 		"category": "VOR/DME",
-		"code": " MTG ",
+		"code": "MTG",
 		"country": "LF",
 		"info": "Martigues Frq:117.3",
 		"latitude": "+43.39",
@@ -512,7 +512,7 @@
 	{
 		"altitude": "349",
 		"category": "VOR/DME",
-		"code": " MLN ",
+		"code": "MLN",
 		"country": "LF",
 		"info": "Melun Villaroche Frq:113.6",
 		"latitude": "+48.46",
@@ -522,7 +522,7 @@
 	{
 		"altitude": "4 514",
 		"category": "VOR/DME",
-		"code": " MEN ",
+		"code": "MEN",
 		"country": "LF",
 		"info": "Mende Nasbinals Frq:115.3",
 		"latitude": "+44.61",
@@ -532,7 +532,7 @@
 	{
 		"altitude": "221",
 		"category": "VOR/DME",
-		"code": " LGH ",
+		"code": "LGH",
 		"country": "LF",
 		"info": "Mont de Marsan Frq:111.65",
 		"latitude": "+43.91",
@@ -542,7 +542,7 @@
 	{
 		"altitude": "410",
 		"category": "VOR",
-		"code": " MTD ",
+		"code": "MTD",
 		"country": "LF",
 		"info": "Montdidier Frq:113.65",
 		"latitude": "+49.55",
@@ -552,7 +552,7 @@
 	{
 		"altitude": "656",
 		"category": "VOR/DME",
-		"code": " MTL ",
+		"code": "MTL",
 		"country": "LF",
 		"info": "Montelimar Ancône Frq:113.65",
 		"latitude": "+44.55",
@@ -562,7 +562,7 @@
 	{
 		"altitude": "1 076",
 		"category": "VOR",
-		"code": " MMD ",
+		"code": "MMD",
 		"country": "LF",
 		"info": "Montmedy Dun sur Meuse Frq:109.4",
 		"latitude": "+49.39",
@@ -572,7 +572,7 @@
 	{
 		"altitude": "7",
 		"category": "VOR/DME",
-		"code": " FJR ",
+		"code": "FJR",
 		"country": "LF",
 		"info": "Montpellier Méditerranée Frq:114.45",
 		"latitude": "+43.58",
@@ -582,7 +582,7 @@
 	{
 		"altitude": "588",
 		"category": "VOR",
-		"code": " ARE ",
+		"code": "ARE",
 		"country": "LF",
 		"info": "Monts d'Arrée Frq:112.5",
 		"latitude": "+48.33",
@@ -592,7 +592,7 @@
 	{
 		"altitude": "699",
 		"category": "VOR/DME",
-		"code": " MOU ",
+		"code": "MOU",
 		"country": "LF",
 		"info": "Moulins (+NDB: 324 kHz) Frq:116.7",
 		"latitude": "+46.71",
@@ -602,7 +602,7 @@
 	{
 		"altitude": "870",
 		"category": "VOR",
-		"code": " MBY ",
+		"code": "MBY",
 		"country": "LF",
 		"info": "Moulins Montbeugny Frq:109.6",
 		"latitude": "+46.54",
@@ -612,7 +612,7 @@
 	{
 		"altitude": "92",
 		"category": "VOR/DME",
-		"code": " NTS ",
+		"code": "NTS",
 		"country": "LF",
 		"info": "Nantes Atlantique Frq:115.5",
 		"latitude": "+47.16",
@@ -622,7 +622,7 @@
 	{
 		"altitude": "631",
 		"category": "VOR",
-		"code": " NEV ",
+		"code": "NEV",
 		"country": "LF",
 		"info": "Nevers Frq:113.4",
 		"latitude": "+47.15",
@@ -632,7 +632,7 @@
 	{
 		"altitude": "36",
 		"category": "VOR/DME",
-		"code": " CGS ",
+		"code": "CGS",
 		"country": "LF",
 		"info": "Nice Cagnes sur Mer Frq:109.2",
 		"latitude": "+43.65",
@@ -642,7 +642,7 @@
 	{
 		"altitude": "12",
 		"category": "VOR/DME",
-		"code": " AZR ",
+		"code": "AZR",
 		"country": "LF",
 		"info": "Nice Cote d'Azur Frq:109.65",
 		"latitude": "+43.66",
@@ -652,7 +652,7 @@
 	{
 		"altitude": "2 822",
 		"category": "VOR/DME",
-		"code": " NIZ ",
+		"code": "NIZ",
 		"country": "LF",
 		"info": "Nice Cote d'Azur Mt Chauve Frq:112.4",
 		"latitude": "+43.77",
@@ -662,7 +662,7 @@
 	{
 		"altitude": "385",
 		"category": "VOR/DME",
-		"code": " CGN ",
+		"code": "CGN",
 		"country": "LF",
 		"info": "Paris Charles de Gaulle Roissy Frq:115.35",
 		"latitude": "+49.02",
@@ -672,7 +672,7 @@
 	{
 		"altitude": "348",
 		"category": "VOR/DME",
-		"code": " PGS ",
+		"code": "PGS",
 		"country": "LF",
 		"info": "Paris Charles de Gaulle Roissy Frq:117.05",
 		"latitude": "+49.00",
@@ -682,7 +682,7 @@
 	{
 		"altitude": "200",
 		"category": "VOR/DME",
-		"code": " BT ",
+		"code": "BT",
 		"country": "LF",
 		"info": "Paris Le Bourget Frq:116.1",
 		"latitude": "+48.97",
@@ -692,7 +692,7 @@
 	{
 		"altitude": "307",
 		"category": "VOR/DME",
-		"code": " OL ",
+		"code": "OL",
 		"country": "LF",
 		"info": "Paris Orly Frq:111.2",
 		"latitude": "+48.73",
@@ -702,7 +702,7 @@
 	{
 		"altitude": "151",
 		"category": "VOR/DME",
-		"code": " PPG ",
+		"code": "PPG",
 		"country": "LF",
 		"info": "Perpignan Rivesaltes Frq:116.25",
 		"latitude": "+42.75",
@@ -712,7 +712,7 @@
 	{
 		"altitude": "424",
 		"category": "VOR",
-		"code": " PTV ",
+		"code": "PTV",
 		"country": "LF",
 		"info": "Pithiviers Frq:116.5",
 		"latitude": "+48.16",
@@ -722,7 +722,7 @@
 	{
 		"altitude": "441",
 		"category": "VOR",
-		"code": " POI ",
+		"code": "POI",
 		"country": "LF",
 		"info": "Poitiers Biard Frq:113.3",
 		"latitude": "+46.58",
@@ -732,7 +732,7 @@
 	{
 		"altitude": "318",
 		"category": "VOR",
-		"code": " PON ",
+		"code": "PON",
 		"country": "LF",
 		"info": "Pontoise Cormeilles Frq:111.6",
 		"latitude": "+49.10",
@@ -742,7 +742,7 @@
 	{
 		"altitude": "315",
 		"category": "VOR/DME",
-		"code": " QPR ",
+		"code": "QPR",
 		"country": "LF",
 		"info": "Quimper Pluguffan Frq:117.8",
 		"latitude": "+47.96",
@@ -752,7 +752,7 @@
 	{
 		"altitude": "604",
 		"category": "VOR/DME",
-		"code": " RBT ",
+		"code": "RBT",
 		"country": "LF",
 		"info": "Rambouillet les Bordes Frq:114.7",
 		"latitude": "+48.65",
@@ -762,7 +762,7 @@
 	{
 		"altitude": "335",
 		"category": "VOR",
-		"code": " REM ",
+		"code": "REM",
 		"country": "LF",
 		"info": "Reims Champagne Frq:112.3",
 		"latitude": "+49.31",
@@ -772,7 +772,7 @@
 	{
 		"altitude": "126",
 		"category": "VOR/DME",
-		"code": " REN ",
+		"code": "REN",
 		"country": "LF",
 		"info": "Rennes Saint Jacques Frq:109.25",
 		"latitude": "+48.07",
@@ -782,7 +782,7 @@
 	{
 		"altitude": "1 095",
 		"category": "VOR",
-		"code": " ROA ",
+		"code": "ROA",
 		"country": "LF",
 		"info": "Roanne Renaison Frq:110.25",
 		"latitude": "+46.06",
@@ -792,7 +792,7 @@
 	{
 		"altitude": "1 490",
 		"category": "VOR/DME",
-		"code": " RLP ",
+		"code": "RLP",
 		"country": "LF",
 		"info": "Rolampont Frq:117.3",
 		"latitude": "+47.91",
@@ -802,7 +802,7 @@
 	{
 		"altitude": "560",
 		"category": "VOR",
-		"code": " ROU ",
+		"code": "ROU",
 		"country": "LF",
 		"info": "Rouen Vallée de Seine Frq:116.8",
 		"latitude": "+49.47",
@@ -812,7 +812,7 @@
 	{
 		"altitude": "3 212",
 		"category": "VOR",
-		"code": " SFC ",
+		"code": "SFC",
 		"country": "LF",
 		"info": "Saint Flour Coltines Frq:109.8",
 		"latitude": "+45.07",
@@ -822,7 +822,7 @@
 	{
 		"altitude": "1 089",
 		"category": "VOR/DME",
-		"code": " STP ",
+		"code": "STP",
 		"country": "LF",
 		"info": "Saint Tropez Frq:116.5",
 		"latitude": "+43.22",
@@ -832,7 +832,7 @@
 	{
 		"altitude": "405",
 		"category": "VOR",
-		"code": " SAU ",
+		"code": "SAU",
 		"country": "LF",
 		"info": "Sauveterre de Guyenne Frq:116.8",
 		"latitude": "+44.68",
@@ -842,7 +842,7 @@
 	{
 		"altitude": "1 021",
 		"category": "VOR/DME",
-		"code": " SAV ",
+		"code": "SAV",
 		"country": "LF",
 		"info": "Saverne Frq:110.45",
 		"latitude": "+48.80",
@@ -852,7 +852,7 @@
 	{
 		"altitude": "577",
 		"category": "VOR/DME",
-		"code": " STR ",
+		"code": "STR",
 		"country": "LF",
 		"info": "Strasbourg Entzheim Frq:115.6",
 		"latitude": "+48.51",
@@ -862,7 +862,7 @@
 	{
 		"altitude": "1 039",
 		"category": "VOR/DME",
-		"code": " TBO ",
+		"code": "TBO",
 		"country": "LF",
 		"info": "Tarbes Frq:113.9",
 		"latitude": "+43.33",
@@ -872,7 +872,7 @@
 	{
 		"altitude": "2 258",
 		"category": "VOR/DME",
-		"code": " TIS ",
+		"code": "TIS",
 		"country": "LF",
 		"info": "Thiers Frq:117.5",
 		"latitude": "+45.88",
@@ -882,7 +882,7 @@
 	{
 		"altitude": "574",
 		"category": "VOR/DME",
-		"code": " TOU ",
+		"code": "TOU",
 		"country": "LF",
 		"info": "Toulouse Blagnac Frq:117.7",
 		"latitude": "+43.68",
@@ -892,7 +892,7 @@
 	{
 		"altitude": "547",
 		"category": "VOR",
-		"code": " TSU ",
+		"code": "TSU",
 		"country": "LF",
 		"info": "Toussus le Noble Frq:108.25",
 		"latitude": "+48.75",
@@ -902,7 +902,7 @@
 	{
 		"altitude": "859",
 		"category": "VOR",
-		"code": " TRO ",
+		"code": "TRO",
 		"country": "LF",
 		"info": "Troyes Barberey Frq:116.0",
 		"latitude": "+48.25",
@@ -912,7 +912,7 @@
 	{
 		"altitude": "900",
 		"category": "VOR",
-		"code": " VNE ",
+		"code": "VNE",
 		"country": "LF",
 		"info": "Vienne Reventin Frq:108.2",
 		"latitude": "+45.56",
@@ -922,7 +922,7 @@
 	{
 		"altitude": "220",
 		"category": "CAP",
-		"code": " LFOI ",
+		"code": "LFOI",
 		"country": "LF",
 		"info": "Abbeville\n[Dépt:80] Frq:123.5",
 		"latitude": "+50.14",
@@ -932,7 +932,7 @@
 	{
 		"altitude": "204",
 		"category": "CAP",
-		"code": " LFBA ",
+		"code": "LFBA",
 		"country": "LF",
 		"info": "Agen La Garenne\n[Dépt:47] Frq:121.3",
 		"latitude": "+44.17",
@@ -942,7 +942,7 @@
 	{
 		"altitude": "266",
 		"category": "CAP",
-		"code": " LFDA ",
+		"code": "LFDA",
 		"country": "LF",
 		"info": "Aire sur l'Adour\n[Dépt:40] Frq:118.975",
 		"latitude": "+43.71",
@@ -952,7 +952,7 @@
 	{
 		"altitude": "368",
 		"category": "CAP",
-		"code": " LFMA ",
+		"code": "LFMA",
 		"country": "LF",
 		"info": "Aix les Milles\n[Dépt:13] Frq:118.75",
 		"latitude": "+43.51",
@@ -962,7 +962,7 @@
 	{
 		"altitude": "19",
 		"category": "CAP",
-		"code": " LFKJ ",
+		"code": "LFKJ",
 		"country": "LF",
 		"info": "Ajaccio Napoléon Bonaparte\n[Dépt:20] Frq:118.075",
 		"latitude": "+41.92",
@@ -972,7 +972,7 @@
 	{
 		"altitude": "363",
 		"category": "CAP",
-		"code": " LFAQ ",
+		"code": "LFAQ",
 		"country": "LF",
 		"info": "Albert Bray\n[Dépt:80] Frq:119.65",
 		"latitude": "+49.97",
@@ -982,7 +982,7 @@
 	{
 		"altitude": "565",
 		"category": "CAP",
-		"code": " LFCI ",
+		"code": "LFCI",
 		"country": "LF",
 		"info": "Albi Le Sequestre\n[Dépt:81] Frq:118.95",
 		"latitude": "+43.91",
@@ -992,7 +992,7 @@
 	{
 		"altitude": "476",
 		"category": "CAP",
-		"code": " LFOF ",
+		"code": "LFOF",
 		"country": "LF",
 		"info": "Alençon Valframbert\n[Dépt:61] Frq:118.325",
 		"latitude": "+48.43",
@@ -1002,7 +1002,7 @@
 	{
 		"altitude": "668",
 		"category": "CAP",
-		"code": " LFMS ",
+		"code": "LFMS",
 		"country": "LF",
 		"info": "Alès Cévennes Deaux\n[Dépt:30] Frq:130.2",
 		"latitude": "+44.07",
@@ -1012,7 +1012,7 @@
 	{
 		"altitude": "823",
 		"category": "CAP/Mil",
-		"code": " LFXA ",
+		"code": "LFXA",
 		"country": "LF",
 		"info": "Ambérieu\n[Dépt:01] Frq:129.75",
 		"latitude": "+45.98",
@@ -1022,7 +1022,7 @@
 	{
 		"altitude": "1 848",
 		"category": "CAP",
-		"code": " LFHT ",
+		"code": "LFHT",
 		"country": "LF",
 		"info": "Ambert Le Poyet\n[Dépt:63] Frq:123.5",
 		"latitude": "+45.52",
@@ -1032,7 +1032,7 @@
 	{
 		"altitude": "177",
 		"category": "CAP",
-		"code": " LFEF ",
+		"code": "LFEF",
 		"country": "LF",
 		"info": "Amboise Dierre\n[Dépt:37] Frq:118.775",
 		"latitude": "+47.34",
@@ -1042,7 +1042,7 @@
 	{
 		"altitude": "208",
 		"category": "CAP",
-		"code": " LFAY ",
+		"code": "LFAY",
 		"country": "LF",
 		"info": "Amiens Glisy\n[Dépt:80] Frq:123.4",
 		"latitude": "+49.87",
@@ -1052,7 +1052,7 @@
 	{
 		"altitude": "109",
 		"category": "CAP",
-		"code": " LFFI ",
+		"code": "LFFI",
 		"country": "LF",
 		"info": "Ancenis\n[Dépt:44] Frq:118.2",
 		"latitude": "+47.41",
@@ -1062,7 +1062,7 @@
 	{
 		"altitude": "64",
 		"category": "CAP",
-		"code": " LFCD ",
+		"code": "LFCD",
 		"country": "LF",
 		"info": "Andernos les Bains\n[Dépt:33] Frq:120.4",
 		"latitude": "+44.76",
@@ -1072,7 +1072,7 @@
 	{
 		"altitude": "194",
 		"category": "CAP",
-		"code": " LFJR ",
+		"code": "LFJR",
 		"country": "LF",
 		"info": "Angers Marcé\n[Dépt:49] Frq:124.7",
 		"latitude": "+47.56",
@@ -1082,7 +1082,7 @@
 	{
 		"altitude": "436",
 		"category": "CAP",
-		"code": " LFBU ",
+		"code": "LFBU",
 		"country": "LF",
 		"info": "Angoulême Brie Champniers\n[Dépt:16] Frq:123.15",
 		"latitude": "+45.73",
@@ -1092,7 +1092,7 @@
 	{
 		"altitude": "1 521",
 		"category": "CAP",
-		"code": " LFLP ",
+		"code": "LFLP",
 		"country": "LF",
 		"info": "Annecy Meythet\n[Dépt:74] Frq:118.2",
 		"latitude": "+45.93",
@@ -1102,7 +1102,7 @@
 	{
 		"altitude": "1 620",
 		"category": "CAP",
-		"code": " LFLI ",
+		"code": "LFLI",
 		"country": "LF",
 		"info": "Annemasse\n[Dépt:74] Frq:125.875",
 		"latitude": "+46.19",
@@ -1112,7 +1112,7 @@
 	{
 		"altitude": "52",
 		"category": "CAP",
-		"code": " LFCH ",
+		"code": "LFCH",
 		"country": "LF",
 		"info": "Arcachon La Teste De Buch\n[Dépt:33] Frq:119.075",
 		"latitude": "+44.60",
@@ -1122,7 +1122,7 @@
 	{
 		"altitude": "581",
 		"category": "CAP",
-		"code": " LFAJ ",
+		"code": "LFAJ",
 		"country": "LF",
 		"info": "Argentan\n[Dépt:61] Frq:123.5",
 		"latitude": "+48.71",
@@ -1132,7 +1132,7 @@
 	{
 		"altitude": "666",
 		"category": "CAP",
-		"code": " LFEG ",
+		"code": "LFEG",
 		"country": "LF",
 		"info": "Argenton Sur Creuse\n[Dépt:36] Frq:123.5",
 		"latitude": "+46.60",
@@ -1142,7 +1142,7 @@
 	{
 		"altitude": "337",
 		"category": "CAP",
-		"code": " LFQD ",
+		"code": "LFQD",
 		"country": "LF",
 		"info": "Arras Roclincourt\n[Dépt:62] Frq:123.5",
 		"latitude": "+50.32",
@@ -1152,7 +1152,7 @@
 	{
 		"altitude": "923",
 		"category": "CAP",
-		"code": " LFHO ",
+		"code": "LFHO",
 		"country": "LF",
 		"info": "Aubenas Ardèche Mérid (Val Lanas)\n[Dépt:07] Frq:119.85",
 		"latitude": "+44.54",
@@ -1162,7 +1162,7 @@
 	{
 		"altitude": "630",
 		"category": "CAP",
-		"code": " LFEH ",
+		"code": "LFEH",
 		"country": "LF",
 		"info": "Aubigny sur Nère\n[Dépt:18] Frq:123.5",
 		"latitude": "+47.48",
@@ -1172,7 +1172,7 @@
 	{
 		"altitude": "411",
 		"category": "CAP",
-		"code": " LFDH ",
+		"code": "LFDH",
 		"country": "LF",
 		"info": "Auch Lamothe\n[Dépt:32] Frq:123.0",
 		"latitude": "+43.69",
@@ -1182,7 +1182,7 @@
 	{
 		"altitude": "2 096",
 		"category": "CAP",
-		"code": " LFLW ",
+		"code": "LFLW",
 		"country": "LF",
 		"info": "Aurillac\n[Dépt:15] Frq:118.325",
 		"latitude": "+44.90",
@@ -1192,7 +1192,7 @@
 	{
 		"altitude": "1 001",
 		"category": "CAP",
-		"code": " LFQF ",
+		"code": "LFQF",
 		"country": "LF",
 		"info": "Autun Bellevue\n[Dépt:71] Frq:123.5",
 		"latitude": "+46.97",
@@ -1202,7 +1202,7 @@
 	{
 		"altitude": "523",
 		"category": "CAP",
-		"code": " LFLA ",
+		"code": "LFLA",
 		"country": "LF",
 		"info": "Auxerre Branches\n[Dépt:89] Frq:129.8",
 		"latitude": "+47.85",
@@ -1212,7 +1212,7 @@
 	{
 		"altitude": "786",
 		"category": "CAP",
-		"code": " LFGE ",
+		"code": "LFGE",
 		"country": "LF",
 		"info": "Avallon\n[Dépt:89] Frq:123.5",
 		"latitude": "+47.50",
@@ -1222,7 +1222,7 @@
 	{
 		"altitude": "124",
 		"category": "CAP",
-		"code": " LFMV ",
+		"code": "LFMV",
 		"country": "LF",
 		"info": "Avignon Caumont\n[Dépt:84] Frq:122.6",
 		"latitude": "+43.91",
@@ -1232,7 +1232,7 @@
 	{
 		"altitude": "580",
 		"category": "Mil",
-		"code": " LFOA ",
+		"code": "LFOA",
 		"country": "LF",
 		"info": "Avord\n[Dépt:18] Frq:122.1",
 		"latitude": "+47.06",
@@ -1242,7 +1242,7 @@
 	{
 		"altitude": "2 028",
 		"category": "CAP",
-		"code": " LFCB ",
+		"code": "LFCB",
 		"country": "LF",
 		"info": "Bagnère de Luchon\n[Dépt:31] Frq:123.5",
 		"latitude": "+42.80",
@@ -1252,7 +1252,7 @@
 	{
 		"altitude": "714",
 		"category": "CAP",
-		"code": " LFAO ",
+		"code": "LFAO",
 		"country": "LF",
 		"info": "Bagnoles de l'Orne Couterne\n[Dépt:61] Frq:123.5",
 		"latitude": "+48.54",
@@ -1262,7 +1262,7 @@
 	{
 		"altitude": "885",
 		"category": "CAP",
-		"code": " LFSB ",
+		"code": "LFSB",
 		"country": "LF",
 		"info": "Bâle Mulhouse\n[Dépt:68] Frq:118.3",
 		"latitude": "+47.59",
@@ -1272,7 +1272,7 @@
 	{
 		"altitude": "899",
 		"category": "CAP",
-		"code": " LFEU ",
+		"code": "LFEU",
 		"country": "LF",
 		"info": "Bar Le Duc les Hauts de Chée\n[Dépt:55] Frq:123.5",
 		"latitude": "+48.87",
@@ -1282,7 +1282,7 @@
 	{
 		"altitude": "3 714",
 		"category": "CAP",
-		"code": " LFMR ",
+		"code": "LFMR",
 		"country": "LF",
 		"info": "Barcelonette Saint Pons\n[Dépt:04] Frq:123.5",
 		"latitude": "+44.39",
@@ -1292,7 +1292,7 @@
 	{
 		"altitude": "26",
 		"category": "CAP",
-		"code": " LFKB ",
+		"code": "LFKB",
 		"country": "LF",
 		"info": "Bastia Poretta\n[Dépt:20] Frq:118.0",
 		"latitude": "+42.55",
@@ -1302,7 +1302,7 @@
 	{
 		"altitude": "656",
 		"category": "CAP",
-		"code": " LFGF ",
+		"code": "LFGF",
 		"country": "LF",
 		"info": "Beaune Challanges\n[Dépt:21] Frq:123.5",
 		"latitude": "+47.01",
@@ -1312,7 +1312,7 @@
 	{
 		"altitude": "359",
 		"category": "CAP",
-		"code": " LFOB ",
+		"code": "LFOB",
 		"country": "LF",
 		"info": "Beauvais Tillé\n[Dépt:60] Frq:121.4",
 		"latitude": "+49.45",
@@ -1322,7 +1322,7 @@
 	{
 		"altitude": "1 367",
 		"category": "CAP",
-		"code": " LFGG ",
+		"code": "LFGG",
 		"country": "LF",
 		"info": "Belfort Chaux\n[Dépt:90] Frq:123.5",
 		"latitude": "+47.70",
@@ -1332,7 +1332,7 @@
 	{
 		"altitude": "177",
 		"category": "CAP",
-		"code": " LFEA ",
+		"code": "LFEA",
 		"country": "LF",
 		"info": "Belle île en mer\n[Dépt:56] Frq:118.75",
 		"latitude": "+47.33",
@@ -1342,7 +1342,7 @@
 	{
 		"altitude": "1 626",
 		"category": "CAP",
-		"code": " LFHN ",
+		"code": "LFHN",
 		"country": "LF",
 		"info": "Bellegarde Vouvray\n[Dépt:01] Frq:123.5",
 		"latitude": "+46.12",
@@ -1352,7 +1352,7 @@
 	{
 		"altitude": "32",
 		"category": "CAP",
-		"code": " LFAM ",
+		"code": "LFAM",
 		"country": "LF",
 		"info": "Berck sur Mer\n[Dépt:62] Frq:123.5",
 		"latitude": "+50.42",
@@ -1362,7 +1362,7 @@
 	{
 		"altitude": "170",
 		"category": "CAP",
-		"code": " LFBE ",
+		"code": "LFBE",
 		"country": "LF",
 		"info": "Bergerac Roumanière\n[Dépt:24] Frq:119.8",
 		"latitude": "+44.82",
@@ -1372,7 +1372,7 @@
 	{
 		"altitude": "555",
 		"category": "CAP",
-		"code": " LFPD ",
+		"code": "LFPD",
 		"country": "LF",
 		"info": "Bernay Saint Martin\n[Dépt:27] Frq:119.225",
 		"latitude": "+49.10",
@@ -1382,7 +1382,7 @@
 	{
 		"altitude": "1 270",
 		"category": "CAP",
-		"code": " LFQM ",
+		"code": "LFQM",
 		"country": "LF",
 		"info": "Besançon La Vèze\n[Dépt:25] Frq:122.2",
 		"latitude": "+47.21",
@@ -1392,7 +1392,7 @@
 	{
 		"altitude": "807",
 		"category": "CAP",
-		"code": " LFSA ",
+		"code": "LFSA",
 		"country": "LF",
 		"info": "Besançon Thise\n[Dépt:25] Frq:123.5",
 		"latitude": "+47.27",
@@ -1402,7 +1402,7 @@
 	{
 		"altitude": "56",
 		"category": "CAP",
-		"code": " LFMU ",
+		"code": "LFMU",
 		"country": "LF",
 		"info": "Béziers Vias\n[Dépt:34] Frq:120.175",
 		"latitude": "+43.32",
@@ -1412,7 +1412,7 @@
 	{
 		"altitude": "245",
 		"category": "CAP",
-		"code": " LFBZ ",
+		"code": "LFBZ",
 		"country": "LF",
 		"info": "Biarritz Bayonne Anglet\n[Dépt:64] Frq:118.7",
 		"latitude": "+43.47",
@@ -1422,7 +1422,7 @@
 	{
 		"altitude": "100",
 		"category": "CAP",
-		"code": " LFBS ",
+		"code": "LFBS",
 		"country": "LF",
 		"info": "Biscarosse Parentis (+Hydrosurface UR)\n[Dépt:40] Frq:118.95",
 		"latitude": "+44.37",
@@ -1432,7 +1432,7 @@
 	{
 		"altitude": "398",
 		"category": "CAP",
-		"code": " LFOQ ",
+		"code": "LFOQ",
 		"country": "LF",
 		"info": "Blois Le Breuil\n[Dépt:41] Frq:118.45",
 		"latitude": "+47.68",
@@ -1442,7 +1442,7 @@
 	{
 		"altitude": "192",
 		"category": "CAP",
-		"code": " LFCS ",
+		"code": "LFCS",
 		"country": "LF",
 		"info": "Bordeaux Léognan Saucats\n[Dépt:33] Frq:119.0",
 		"latitude": "+44.70",
@@ -1452,7 +1452,7 @@
 	{
 		"altitude": "166",
 		"category": "CAP",
-		"code": " LFBD ",
+		"code": "LFBD",
 		"country": "LF",
 		"info": "Bordeaux Mérignac\n[Dépt:33] Frq:118.3",
 		"latitude": "+44.83",
@@ -1462,7 +1462,7 @@
 	{
 		"altitude": "857",
 		"category": "CAP",
-		"code": " LFHS ",
+		"code": "LFHS",
 		"country": "LF",
 		"info": "Bourg Ceyzeriat\n[Dépt:01] Frq:118.45",
 		"latitude": "+46.21",
@@ -1472,7 +1472,7 @@
 	{
 		"altitude": "529",
 		"category": "CAP",
-		"code": " LFLD ",
+		"code": "LFLD",
 		"country": "LF",
 		"info": "Bourges\n[Dépt:18] Frq:119.6",
 		"latitude": "+47.06",
@@ -1482,7 +1482,7 @@
 	{
 		"altitude": "325",
 		"category": "CAP",
-		"code": " LFRB ",
+		"code": "LFRB",
 		"country": "LF",
 		"info": "Brest Bretagne Guipavas\n[Dépt:29] Frq:120.1",
 		"latitude": "+48.45",
@@ -1492,7 +1492,7 @@
 	{
 		"altitude": "539",
 		"category": "CAP",
-		"code": " LFEI ",
+		"code": "LFEI",
 		"country": "LF",
 		"info": "Briare Châtillon\n[Dépt:45] Frq:118.75",
 		"latitude": "+47.61",
@@ -1502,7 +1502,7 @@
 	{
 		"altitude": "376",
 		"category": "CAP",
-		"code": " LFFN ",
+		"code": "LFFN",
 		"country": "LF",
 		"info": "Brienne le Château\n[Dépt:10] Frq:123.425",
 		"latitude": "+48.43",
@@ -1512,7 +1512,7 @@
 	{
 		"altitude": "1 487",
 		"category": "CAP",
-		"code": " LFHR ",
+		"code": "LFHR",
 		"country": "LF",
 		"info": "Brioude Beaumont\n[Dépt:43] Frq:123.5",
 		"latitude": "+45.32",
@@ -1522,7 +1522,7 @@
 	{
 		"altitude": "1 016",
 		"category": "CAP",
-		"code": " LFSL ",
+		"code": "LFSL",
 		"country": "LF",
 		"info": "Brive Souillac\n[Dépt:19] Frq:121.125",
 		"latitude": "+45.04",
@@ -1532,7 +1532,7 @@
 	{
 		"altitude": "256",
 		"category": "CAP",
-		"code": " LFRK ",
+		"code": "LFRK",
 		"country": "LF",
 		"info": "Caen Carpiquet\n[Dépt:14] Frq:134.525",
 		"latitude": "+49.17",
@@ -1542,7 +1542,7 @@
 	{
 		"altitude": "912",
 		"category": "CAP",
-		"code": " LFCC ",
+		"code": "LFCC",
 		"country": "LF",
 		"info": "Cahors Lalbenque\n[Dépt:46] Frq:119.225",
 		"latitude": "+44.35",
@@ -1552,7 +1552,7 @@
 	{
 		"altitude": "12",
 		"category": "CAP",
-		"code": " LFAC ",
+		"code": "LFAC",
 		"country": "LF",
 		"info": "Calais Dunkerque\n[Dépt:62] Frq:128.925",
 		"latitude": "+50.96",
@@ -1562,7 +1562,7 @@
 	{
 		"altitude": "210",
 		"category": "CAP",
-		"code": " LFKC ",
+		"code": "LFKC",
 		"country": "LF",
 		"info": "Calvi Sainte Catherine\n[Dépt:20] Frq:123.2",
 		"latitude": "+42.52",
@@ -1572,7 +1572,7 @@
 	{
 		"altitude": "312",
 		"category": "CAP",
-		"code": " LFYG ",
+		"code": "LFYG",
 		"country": "LF",
 		"info": "Cambrai Niergnies\n[Dépt:59] Frq:122.925",
 		"latitude": "+50.14",
@@ -1582,7 +1582,7 @@
 	{
 		"altitude": "14",
 		"category": "CAP",
-		"code": " LFMD ",
+		"code": "LFMD",
 		"country": "LF",
 		"info": "Cannes Mandelieu\n[Dépt:06] Frq:118.625",
 		"latitude": "+43.55",
@@ -1592,7 +1592,7 @@
 	{
 		"altitude": "434",
 		"category": "CAP",
-		"code": " LFMK ",
+		"code": "LFMK",
 		"country": "LF",
 		"info": "Carcassonne Salvaza\n[Dépt:11] Frq:121.0",
 		"latitude": "+43.22",
@@ -1602,7 +1602,7 @@
 	{
 		"altitude": "388",
 		"category": "CAP",
-		"code": " LFNH ",
+		"code": "LFNH",
 		"country": "LF",
 		"info": "Carpentras\n[Dépt:84] Frq:118.175",
 		"latitude": "+44.02",
@@ -1612,7 +1612,7 @@
 	{
 		"altitude": "2 025",
 		"category": "CAP",
-		"code": " LFIG ",
+		"code": "LFIG",
 		"country": "LF",
 		"info": "Cassagnes Bégonhès\n[Dépt:12] Frq:123.5",
 		"latitude": "+44.18",
@@ -1622,7 +1622,7 @@
 	{
 		"altitude": "551",
 		"category": "CAP",
-		"code": " LFMW ",
+		"code": "LFMW",
 		"country": "LF",
 		"info": "Castelnaudary Villeneuve\n[Dépt:11] Frq:118.9",
 		"latitude": "+43.31",
@@ -1632,7 +1632,7 @@
 	{
 		"altitude": "243",
 		"category": "CAP",
-		"code": " LFCX ",
+		"code": "LFCX",
 		"country": "LF",
 		"info": "Castelsarrasin Moissac\n[Dépt:82] Frq:121.05",
 		"latitude": "+44.09",
@@ -1642,7 +1642,7 @@
 	{
 		"altitude": "785",
 		"category": "CAP",
-		"code": " LFCK ",
+		"code": "LFCK",
 		"country": "LF",
 		"info": "Castres Mazamet\n[Dépt:81] Frq:118.5",
 		"latitude": "+43.55",
@@ -1652,7 +1652,7 @@
 	{
 		"altitude": "84",
 		"category": "Mil",
-		"code": " LFBC ",
+		"code": "LFBC",
 		"country": "LF",
 		"info": "Cazaux\n[Dépt:33] Frq:118.4",
 		"latitude": "+44.53",
@@ -1662,7 +1662,7 @@
 	{
 		"altitude": "623",
 		"category": "CAP",
-		"code": " LFLH ",
+		"code": "LFLH",
 		"country": "LF",
 		"info": "Chalon Chamforgueuil\n[Dépt:71] Frq:118.6",
 		"latitude": "+46.83",
@@ -1672,7 +1672,7 @@
 	{
 		"altitude": "321",
 		"category": "CAP",
-		"code": " LFQK ",
+		"code": "LFQK",
 		"country": "LF",
 		"info": "Châlons Ecury Sur Coole\n[Dépt:51] Frq:118.975",
 		"latitude": "+48.91",
@@ -1682,7 +1682,7 @@
 	{
 		"altitude": "586",
 		"category": "CAP",
-		"code": " LFOK ",
+		"code": "LFOK",
 		"country": "LF",
 		"info": "Chalons Vatry\n[Dépt:51] Frq:129.4",
 		"latitude": "+48.77",
@@ -1692,7 +1692,7 @@
 	{
 		"altitude": "779",
 		"category": "CAP",
-		"code": " LFLB ",
+		"code": "LFLB",
 		"country": "LF",
 		"info": "Chambéry Aix les Bains\n[Dépt:73] Frq:118.3",
 		"latitude": "+45.64",
@@ -1702,7 +1702,7 @@
 	{
 		"altitude": "973",
 		"category": "CAP",
-		"code": " LFLE ",
+		"code": "LFLE",
 		"country": "LF",
 		"info": "Chambéry Challes les Eaux\n[Dépt:73] Frq:118.4",
 		"latitude": "+45.56",
@@ -1712,7 +1712,7 @@
 	{
 		"altitude": "866",
 		"category": "CAP",
-		"code": " LFJY ",
+		"code": "LFJY",
 		"country": "LF",
 		"info": "Chambley\n[Dépt:54] Frq:119.55",
 		"latitude": "+49.03",
@@ -1722,7 +1722,7 @@
 	{
 		"altitude": "492",
 		"category": "CAP",
-		"code": " LFQV ",
+		"code": "LFQV",
 		"country": "LF",
 		"info": "Charleville Mézières\n[Dépt:08] Frq:126.850",
 		"latitude": "+49.78",
@@ -1732,7 +1732,7 @@
 	{
 		"altitude": "509",
 		"category": "CAP",
-		"code": " LFOR ",
+		"code": "LFOR",
 		"country": "LF",
 		"info": "Chartres Métropole\n[Dépt:28] Frq:119.2",
 		"latitude": "+48.46",
@@ -1742,7 +1742,7 @@
 	{
 		"altitude": "1 507",
 		"category": "CAP",
-		"code": " LFMX ",
+		"code": "LFMX",
 		"country": "LF",
 		"info": "Château Arnoux Saint Auban\n[Dépt:04] Frq:122.3",
 		"latitude": "+44.06",
@@ -1752,7 +1752,7 @@
 	{
 		"altitude": "723",
 		"category": "CAP",
-		"code": " LFFH ",
+		"code": "LFFH",
 		"country": "LF",
 		"info": "Château Thierry Belleau\n[Dépt:02] Frq:120.375",
 		"latitude": "+49.07",
@@ -1762,7 +1762,7 @@
 	{
 		"altitude": "433",
 		"category": "CAP/Mil",
-		"code": " LFOC ",
+		"code": "LFOC",
 		"country": "LF",
 		"info": "Châteaudun\n[Dépt:28] Frq:121.75",
 		"latitude": "+48.06",
@@ -1772,7 +1772,7 @@
 	{
 		"altitude": "529",
 		"category": "CAP",
-		"code": " LFLX ",
+		"code": "LFLX",
 		"country": "LF",
 		"info": "Châteauroux Déols\n[Dépt:36] Frq:125.875",
 		"latitude": "+46.86",
@@ -1782,7 +1782,7 @@
 	{
 		"altitude": "542",
 		"category": "CAP",
-		"code": " LFEJ ",
+		"code": "LFEJ",
 		"country": "LF",
 		"info": "Châteauroux Villers\n[Dépt:36] Frq:123.5",
 		"latitude": "+46.84",
@@ -1792,7 +1792,7 @@
 	{
 		"altitude": "210",
 		"category": "CAP",
-		"code": " LFCA ",
+		"code": "LFCA",
 		"country": "LF",
 		"info": "Châtellerault Targé\n[Dépt:86] Frq:120.05",
 		"latitude": "+46.78",
@@ -1802,7 +1802,7 @@
 	{
 		"altitude": "906",
 		"category": "CAP",
-		"code": " LFQH ",
+		"code": "LFQH",
 		"country": "LF",
 		"info": "Châtillon sur Seine\n[Dépt:21] Frq:123.5",
 		"latitude": "+47.85",
@@ -1812,7 +1812,7 @@
 	{
 		"altitude": "442",
 		"category": "CAP",
-		"code": " LFDW ",
+		"code": "LFDW",
 		"country": "LF",
 		"info": "Chauvigny\n[Dépt:86] Frq:123.5",
 		"latitude": "+46.58",
@@ -1822,7 +1822,7 @@
 	{
 		"altitude": "424",
 		"category": "CAP",
-		"code": " LFPX ",
+		"code": "LFPX",
 		"country": "LF",
 		"info": "Chavenay Villepreux\n[Dépt:78] Frq:129.525",
 		"latitude": "+48.84",
@@ -1832,7 +1832,7 @@
 	{
 		"altitude": "208",
 		"category": "CAP",
-		"code": " LFPH ",
+		"code": "LFPH",
 		"country": "LF",
 		"info": "Chelles Le Pin\n[Dépt:77] Frq:123.925",
 		"latitude": "+48.90",
@@ -1842,7 +1842,7 @@
 	{
 		"altitude": "459",
 		"category": "CAP",
-		"code": " LFRC ",
+		"code": "LFRC",
 		"country": "LF",
 		"info": "Cherbourg Maupertus\n[Dépt:50] Frq:119.625",
 		"latitude": "+49.65",
@@ -1852,7 +1852,7 @@
 	{
 		"altitude": "443",
 		"category": "CAP",
-		"code": " LFOU ",
+		"code": "LFOU",
 		"country": "LF",
 		"info": "Cholet Le Pontreau\n[Dépt:49] Frq:120.4",
 		"latitude": "+47.08",
@@ -1862,7 +1862,7 @@
 	{
 		"altitude": "714",
 		"category": "CAP",
-		"code": " LFJC ",
+		"code": "LFJC",
 		"country": "LF",
 		"info": "Clamecy\n[Dépt:58] Frq:123.5",
 		"latitude": "+47.44",
@@ -1872,7 +1872,7 @@
 	{
 		"altitude": "1 092",
 		"category": "CAP",
-		"code": " LFLC ",
+		"code": "LFLC",
 		"country": "LF",
 		"info": "Clermont Fd Auvergne Aulnat\n[Dépt:63] Frq:118.625",
 		"latitude": "+45.79",
@@ -1882,7 +1882,7 @@
 	{
 		"altitude": "499",
 		"category": "Mil",
-		"code": " LFXQ ",
+		"code": "LFXQ",
 		"country": "LF",
 		"info": "Coetquidan\n[Dépt:56] Frq:120.375",
 		"latitude": "+47.94",
@@ -1892,7 +1892,7 @@
 	{
 		"altitude": "102",
 		"category": "Adm",
-		"code": " LFBG ",
+		"code": "LFBG",
 		"country": "LF",
 		"info": "Cognac Château Bernard\n[Dépt:16] Frq:120.075",
 		"latitude": "+45.66",
@@ -1902,7 +1902,7 @@
 	{
 		"altitude": "627",
 		"category": "CAP",
-		"code": " LFGA ",
+		"code": "LFGA",
 		"country": "LF",
 		"info": "Colmar Houssen\n[Dépt:68] Frq:119.0",
 		"latitude": "+48.11",
@@ -1912,7 +1912,7 @@
 	{
 		"altitude": "316",
 		"category": "CAP",
-		"code": " LFAD ",
+		"code": "LFAD",
 		"country": "LF",
 		"info": "Compiègne Margny\n[Dépt:60] Frq:122.3",
 		"latitude": "+49.43",
@@ -1922,7 +1922,7 @@
 	{
 		"altitude": "444",
 		"category": "CAP",
-		"code": " LFID ",
+		"code": "LFID",
 		"country": "LF",
 		"info": "Condom Valence sur Baïse\n[Dépt:32] Frq:123.5",
 		"latitude": "+43.91",
@@ -1932,7 +1932,7 @@
 	{
 		"altitude": "2 770",
 		"category": "UR/ALtiS",
-		"code": " LFJD ",
+		"code": "LFJD",
 		"country": "LF",
 		"info": "Corlier (en bas: 2 619 ft)\n[Dépt:01] Frq:130.0",
 		"latitude": "+46.04",
@@ -1942,7 +1942,7 @@
 	{
 		"altitude": "1 130",
 		"category": "CAP",
-		"code": " LFKT ",
+		"code": "LFKT",
 		"country": "LF",
 		"info": "Corte\n[Dépt:20] Frq:123.5",
 		"latitude": "+42.29",
@@ -1952,7 +1952,7 @@
 	{
 		"altitude": "580",
 		"category": "CAP",
-		"code": " LFGH ",
+		"code": "LFGH",
 		"country": "LF",
 		"info": "Cosne sur Loire\n[Dépt:58] Frq:123.5",
 		"latitude": "+47.36",
@@ -1962,7 +1962,7 @@
 	{
 		"altitude": "500",
 		"category": "CAP",
-		"code": " LFDV ",
+		"code": "LFDV",
 		"country": "LF",
 		"info": "Couhé Vérac\n[Dépt:86] Frq:119.225",
 		"latitude": "+46.27",
@@ -1972,7 +1972,7 @@
 	{
 		"altitude": "470",
 		"category": "CAP",
-		"code": " LFPK ",
+		"code": "LFPK",
 		"country": "LF",
 		"info": "Coulommiers Voisins\n[Dépt:77] Frq:122.2",
 		"latitude": "+48.84",
@@ -1982,7 +1982,7 @@
 	{
 		"altitude": "6 583",
 		"category": "UR/ALtiS",
-		"code": " LFLJ ",
+		"code": "LFLJ",
 		"country": "LF",
 		"info": "Courchevel (en bas:6371ft)\n[Dépt:73] Frq:120.075",
 		"latitude": "+45.40",
@@ -1992,7 +1992,7 @@
 	{
 		"altitude": "288",
 		"category": "Mil",
-		"code": " LFPC ",
+		"code": "LFPC",
 		"country": "LF",
 		"info": "Creil Senlis\n[Dépt:60] Frq:122.1",
 		"latitude": "+49.25",
@@ -2002,7 +2002,7 @@
 	{
 		"altitude": "266",
 		"category": "CAP/Mil",
-		"code": " LFTF ",
+		"code": "LFTF",
 		"country": "LF",
 		"info": "Cuers Pierrefeu\n[Dépt:83] Frq:122.7",
 		"latitude": "+43.25",
@@ -2012,7 +2012,7 @@
 	{
 		"altitude": "108",
 		"category": "CAP/Mil",
-		"code": " LFBY ",
+		"code": "LFBY",
 		"country": "LF",
 		"info": "Dax Seyresse\n[Dépt:40] Frq:118.325",
 		"latitude": "+43.69",
@@ -2022,7 +2022,7 @@
 	{
 		"altitude": "479",
 		"category": "CAP",
-		"code": " LFRG ",
+		"code": "LFRG",
 		"country": "LF",
 		"info": "Deauville Normandie\n[Dépt:14] Frq:118.3",
 		"latitude": "+49.36",
@@ -2032,7 +2032,7 @@
 	{
 		"altitude": "344",
 		"category": "CAP",
-		"code": " LFAB ",
+		"code": "LFAB",
 		"country": "LF",
 		"info": "Dieppe Saint Aubin\n[Dépt:76] Frq:119.0",
 		"latitude": "+49.88",
@@ -2042,7 +2042,7 @@
 	{
 		"altitude": "1 586",
 		"category": "CAP",
-		"code": " LFGI ",
+		"code": "LFGI",
 		"country": "LF",
 		"info": "Dijon Darois\n[Dépt:21] Frq:119.55",
 		"latitude": "+47.39",
@@ -2052,7 +2052,7 @@
 	{
 		"altitude": "728",
 		"category": "CAP/Mil",
-		"code": " LFSD ",
+		"code": "LFSD",
 		"country": "LF",
 		"info": "Dijon Longvic\n[Dépt:21] Frq:118.325",
 		"latitude": "+47.27",
@@ -2062,7 +2062,7 @@
 	{
 		"altitude": "394",
 		"category": "CAP",
-		"code": " LFEB ",
+		"code": "LFEB",
 		"country": "LF",
 		"info": "Dinan Trélivan\n[Dépt:22] Frq:123.5",
 		"latitude": "+48.44",
@@ -2072,7 +2072,7 @@
 	{
 		"altitude": "219",
 		"category": "CAP",
-		"code": " LFRD ",
+		"code": "LFRD",
 		"country": "LF",
 		"info": "Dinard Pleurtuit Saint Malo\n[Dépt:35] Frq:120.15",
 		"latitude": "+48.59",
@@ -2082,7 +2082,7 @@
 	{
 		"altitude": "645",
 		"category": "CAP",
-		"code": " LFGJ ",
+		"code": "LFGJ",
 		"country": "LF",
 		"info": "Dôle Tavaux\n[Dépt:39] Frq:130.775",
 		"latitude": "+47.04",
@@ -2092,7 +2092,7 @@
 	{
 		"altitude": "809",
 		"category": "CAP",
-		"code": " LFGR ",
+		"code": "LFGR",
 		"country": "LF",
 		"info": "Doncourt lès Conflans\n[Dépt:54] Frq:123.5",
 		"latitude": "+49.15",
@@ -2102,7 +2102,7 @@
 	{
 		"altitude": "443",
 		"category": "CAP",
-		"code": " LFON ",
+		"code": "LFON",
 		"country": "LF",
 		"info": "Dreux Vernouillet\n[Dépt:28] Frq:118.2",
 		"latitude": "+48.71",
@@ -2112,7 +2112,7 @@
 	{
 		"altitude": "1 859",
 		"category": "CAP",
-		"code": " LFDE ",
+		"code": "LFDE",
 		"country": "LF",
 		"info": "Egletons\n[Dépt:19] Frq:123.5",
 		"latitude": "+45.42",
@@ -2122,7 +2122,7 @@
 	{
 		"altitude": "291",
 		"category": "CAP",
-		"code": " LFSW ",
+		"code": "LFSW",
 		"country": "LF",
 		"info": "Epernay Plivot\n[Dépt:51] Frq:123.5",
 		"latitude": "+49.00",
@@ -2132,7 +2132,7 @@
 	{
 		"altitude": "1 041",
 		"category": "CAP",
-		"code": " LFSE ",
+		"code": "LFSE",
 		"country": "LF",
 		"info": "Épinal Dogneville\n[Dépt:88] Frq:123.5",
 		"latitude": "+48.21",
@@ -2142,7 +2142,7 @@
 	{
 		"altitude": "1 084",
 		"category": "CAP",
-		"code": " LFSG ",
+		"code": "LFSG",
 		"country": "LF",
 		"info": "Épinal Mirecourt\n[Dépt:88] Frq:120.2",
 		"latitude": "+48.33",
@@ -2152,7 +2152,7 @@
 	{
 		"altitude": "770",
 		"category": "Mil",
-		"code": " LFQE ",
+		"code": "LFQE",
 		"country": "LF",
 		"info": "Étain Rouvres\n[Dépt:55] Frq:142.7",
 		"latitude": "+49.23",
@@ -2162,7 +2162,7 @@
 	{
 		"altitude": "494",
 		"category": "CAP",
-		"code": " LFOX ",
+		"code": "LFOX",
 		"country": "LF",
 		"info": "Étampes Mondésir\n[Dépt:91] Frq:119.05",
 		"latitude": "+48.38",
@@ -2172,7 +2172,7 @@
 	{
 		"altitude": "464",
 		"category": "Mil",
-		"code": " LFOE ",
+		"code": "LFOE",
 		"country": "LF",
 		"info": "Évreux Fauville\n[Dépt:27] Frq:119.7",
 		"latitude": "+49.03",
@@ -2182,7 +2182,7 @@
 	{
 		"altitude": "738",
 		"category": "CAP",
-		"code": " LFMF ",
+		"code": "LFMF",
 		"country": "LF",
 		"info": "Fayence\n[Dépt:83] Frq:119.05",
 		"latitude": "+43.61",
@@ -2192,7 +2192,7 @@
 	{
 		"altitude": "1 095",
 		"category": "CAP",
-		"code": " LFLZ ",
+		"code": "LFLZ",
 		"country": "LF",
 		"info": "Feurs Chambéon\n[Dépt:42] Frq:123.5",
 		"latitude": "+45.71",
@@ -2202,7 +2202,7 @@
 	{
 		"altitude": "87",
 		"category": "CAP",
-		"code": " LFKF ",
+		"code": "LFKF",
 		"country": "LF",
 		"info": "Figari Sud Corse\n[Dépt:20] Frq:120.3",
 		"latitude": "+41.50",
@@ -2212,7 +2212,7 @@
 	{
 		"altitude": "1 085",
 		"category": "CAP",
-		"code": " LFCF ",
+		"code": "LFCF",
 		"country": "LF",
 		"info": "Figeac Livernon\n[Dépt:46] Frq:123.5",
 		"latitude": "+44.67",
@@ -2222,7 +2222,7 @@
 	{
 		"altitude": "663",
 		"category": "CAP",
-		"code": " LFOG ",
+		"code": "LFOG",
 		"country": "LF",
 		"info": "Flers StPaul\n[Dépt:61] Frq:123.5",
 		"latitude": "+48.75",
@@ -2232,7 +2232,7 @@
 	{
 		"altitude": "80",
 		"category": "CAP",
-		"code": " LFFK ",
+		"code": "LFFK",
 		"country": "LF",
 		"info": "Fontenay Le Comte\n[Dépt:85] Frq:123.5",
 		"latitude": "+46.44",
@@ -2242,7 +2242,7 @@
 	{
 		"altitude": "371",
 		"category": "CAP",
-		"code": " LFPQ ",
+		"code": "LFPQ",
 		"country": "LF",
 		"info": "Fontenay Trésigny\n[Dépt:77] Frq:120.225",
 		"latitude": "+48.71",
@@ -2252,7 +2252,7 @@
 	{
 		"altitude": "692",
 		"category": "CAP",
-		"code": " LFDX ",
+		"code": "LFDX",
 		"country": "LF",
 		"info": "Fumel Montayral\n[Dépt:47] Frq:123.5",
 		"latitude": "+44.46",
@@ -2262,7 +2262,7 @@
 	{
 		"altitude": "441",
 		"category": "CAP",
-		"code": " LFDG ",
+		"code": "LFDG",
 		"country": "LF",
 		"info": "Gaillac l'Isle sur Tarn\n[Dépt:81] Frq:119.95",
 		"latitude": "+43.88",
@@ -2272,7 +2272,7 @@
 	{
 		"altitude": "1 966",
 		"category": "CAP",
-		"code": " LFNA ",
+		"code": "LFNA",
 		"country": "LF",
 		"info": "Gap Tallard\n[Dépt:05] Frq:119.1",
 		"latitude": "+44.45",
@@ -2282,7 +2282,7 @@
 	{
 		"altitude": "45",
 		"category": "CAP",
-		"code": " LFRF ",
+		"code": "LFRF",
 		"country": "LF",
 		"info": "Granville Mont St Michel\n[Dépt:50] Frq:118.1",
 		"latitude": "+48.88",
@@ -2292,7 +2292,7 @@
 	{
 		"altitude": "583",
 		"category": "CAP",
-		"code": " LFCQ ",
+		"code": "LFCQ",
 		"country": "LF",
 		"info": "Graulhet Montdragon\n[Dépt:81] Frq:119.65",
 		"latitude": "+43.77",
@@ -2302,7 +2302,7 @@
 	{
 		"altitude": "678",
 		"category": "CAP",
-		"code": " LFEV ",
+		"code": "LFEV",
 		"country": "LF",
 		"info": "Gray Saint Adrien\n[Dépt:70] Frq:123.5",
 		"latitude": "+47.43",
@@ -2312,7 +2312,7 @@
 	{
 		"altitude": "1 302",
 		"category": "CAP",
-		"code": " LFLS ",
+		"code": "LFLS",
 		"country": "LF",
 		"info": "Grenoble Isère (St-Geoirs)\n[Dépt:38] Frq:119.3",
 		"latitude": "+45.36",
@@ -2322,7 +2322,7 @@
 	{
 		"altitude": "724",
 		"category": "CAP",
-		"code": " LFLG ",
+		"code": "LFLG",
 		"country": "LF",
 		"info": "Grenoble Le Versoud\n[Dépt:38] Frq:121.0",
 		"latitude": "+45.22",
@@ -2332,7 +2332,7 @@
 	{
 		"altitude": "1 208",
 		"category": "CAP",
-		"code": " LFCE ",
+		"code": "LFCE",
 		"country": "LF",
 		"info": "Gueret Saint Laurent\n[Dépt:23] Frq:123.5",
 		"latitude": "+46.18",
@@ -2342,7 +2342,7 @@
 	{
 		"altitude": "574",
 		"category": "CAP",
-		"code": " LFES ",
+		"code": "LFES",
 		"country": "LF",
 		"info": "Guiscriff Scaër\n[Dépt:56] Frq:129.8",
 		"latitude": "+48.05",
@@ -2352,7 +2352,7 @@
 	{
 		"altitude": "491",
 		"category": "CAP",
-		"code": " LFSH ",
+		"code": "LFSH",
 		"country": "LF",
 		"info": "Haguenau\n[Dépt:67] Frq:120.625",
 		"latitude": "+48.80",
@@ -2362,7 +2362,7 @@
 	{
 		"altitude": "13",
 		"category": "UR/Mil",
-		"code": " LFTH ",
+		"code": "LFTH",
 		"country": "LF",
 		"info": "Hyères Le Palyvestre\n[Dépt:83] Frq:121.0",
 		"latitude": "+43.10",
@@ -2372,7 +2372,7 @@
 	{
 		"altitude": "79",
 		"category": "CAP",
-		"code": " LFEY ",
+		"code": "LFEY",
 		"country": "LF",
 		"info": "Ile d'Yeu\n[Dépt:85] Frq:118.9",
 		"latitude": "+46.72",
@@ -2382,7 +2382,7 @@
 	{
 		"altitude": "1 240",
 		"category": "CAP",
-		"code": " LFHA ",
+		"code": "LFHA",
 		"country": "LF",
 		"info": "Issoire Le Broc\n[Dépt:63] Frq:118.15",
 		"latitude": "+45.51",
@@ -2392,7 +2392,7 @@
 	{
 		"altitude": "531",
 		"category": "CAP",
-		"code": " LFEK ",
+		"code": "LFEK",
 		"country": "LF",
 		"info": "Issoudun Le Fay\n[Dépt:36] Frq:123.5",
 		"latitude": "+46.89",
@@ -2402,7 +2402,7 @@
 	{
 		"altitude": "82",
 		"category": "CAP/Mil",
-		"code": " LFMI ",
+		"code": "LFMI",
 		"country": "LF",
 		"info": "Istres Le Tubé\n[Dépt:13] Frq:123.6",
 		"latitude": "+43.52",
@@ -2412,7 +2412,7 @@
 	{
 		"altitude": "732",
 		"category": "CAP",
-		"code": " LFGK ",
+		"code": "LFGK",
 		"country": "LF",
 		"info": "Joigny\n[Dépt:89] Frq:123.5",
 		"latitude": "+47.99",
@@ -2422,7 +2422,7 @@
 	{
 		"altitude": "130",
 		"category": "CAP",
-		"code": " LFCJ ",
+		"code": "LFCJ",
 		"country": "LF",
 		"info": "Jonzac Neulles\n[Dépt:17] Frq:118.15",
 		"latitude": "+45.48",
@@ -2432,7 +2432,7 @@
 	{
 		"altitude": "787",
 		"category": "CAP",
-		"code": " LFOL ",
+		"code": "LFOL",
 		"country": "LF",
 		"info": "L'Aigle Saint Michel\n[Dépt:61] Frq:126.85",
 		"latitude": "+48.76",
@@ -2442,7 +2442,7 @@
 	{
 		"altitude": "106",
 		"category": "CAP",
-		"code": " LFRE ",
+		"code": "LFRE",
 		"country": "LF",
 		"info": "La Baule Escoublac\n[Dépt:44] Frq:121.4",
 		"latitude": "+47.29",
@@ -2452,7 +2452,7 @@
 	{
 		"altitude": "44",
 		"category": "CAP",
-		"code": " LFDR ",
+		"code": "LFDR",
 		"country": "LF",
 		"info": "La Réole Floudès\n[Dépt:33] Frq:123.35",
 		"latitude": "+44.57",
@@ -2462,7 +2462,7 @@
 	{
 		"altitude": "299",
 		"category": "CAP",
-		"code": " LFRI ",
+		"code": "LFRI",
 		"country": "LF",
 		"info": "La Roche sur Yon Les Ajoncs\n[Dépt:85] Frq:119.9",
 		"latitude": "+46.70",
@@ -2472,7 +2472,7 @@
 	{
 		"altitude": "74",
 		"category": "CAP",
-		"code": " LFBH ",
+		"code": "LFBH",
 		"country": "LF",
 		"info": "La Rochelle Ile de Ré\n[Dépt:17] Frq:118.0",
 		"latitude": "+46.18",
@@ -2482,7 +2482,7 @@
 	{
 		"altitude": "348",
 		"category": "Mil",
-		"code": " LFRJ ",
+		"code": "LFRJ",
 		"country": "LF",
 		"info": "Landivisiau\n[Dépt:29] Frq:119.2",
 		"latitude": "+48.53",
@@ -2492,7 +2492,7 @@
 	{
 		"altitude": "3 339",
 		"category": "CAP",
-		"code": " LFHL ",
+		"code": "LFHL",
 		"country": "LF",
 		"info": "Langogne Lespéron\n[Dépt:07] Frq:123.5",
 		"latitude": "+44.71",
@@ -2502,7 +2502,7 @@
 	{
 		"altitude": "1 375",
 		"category": "CAP",
-		"code": " LFSU ",
+		"code": "LFSU",
 		"country": "LF",
 		"info": "Langres Rolampont\n[Dépt:52] Frq:123.5",
 		"latitude": "+47.96",
@@ -2512,7 +2512,7 @@
 	{
 		"altitude": "290",
 		"category": "CAP",
-		"code": " LFRO ",
+		"code": "LFRO",
 		"country": "LF",
 		"info": "Lannion\n[Dépt:22] Frq:118.4",
 		"latitude": "+48.75",
@@ -2522,7 +2522,7 @@
 	{
 		"altitude": "287",
 		"category": "CAP/Mil",
-		"code": " LFRL ",
+		"code": "LFRL",
 		"country": "LF",
 		"info": "Lanvéoc Poulmic\n[Dépt:29] Frq:123.2",
 		"latitude": "+48.28",
@@ -2532,7 +2532,7 @@
 	{
 		"altitude": "256",
 		"category": "CAP",
-		"code": " LFAF ",
+		"code": "LFAF",
 		"country": "LF",
 		"info": "Laon Chambry\n[Dépt:02] Frq:123.35",
 		"latitude": "+49.60",
@@ -2542,7 +2542,7 @@
 	{
 		"altitude": "1 045",
 		"category": "CAP",
-		"code": " LFHX ",
+		"code": "LFHX",
 		"country": "LF",
 		"info": "Lapalisse Périgny\n[Dépt:03] Frq:123.35",
 		"latitude": "+46.25",
@@ -2552,7 +2552,7 @@
 	{
 		"altitude": "330",
 		"category": "CAP",
-		"code": " LFOV ",
+		"code": "LFOV",
 		"country": "LF",
 		"info": "Laval Entrammes\n[Dépt:53] Frq:119.3",
 		"latitude": "+48.03",
@@ -2562,7 +2562,7 @@
 	{
 		"altitude": "382",
 		"category": "CAP",
-		"code": " LFEL ",
+		"code": "LFEL",
 		"country": "LF",
 		"info": "Le Blanc\n[Dépt:36] Frq:123.35",
 		"latitude": "+46.62",
@@ -2572,7 +2572,7 @@
 	{
 		"altitude": "1 391",
 		"category": "CAP",
-		"code": " LFMQ ",
+		"code": "LFMQ",
 		"country": "LF",
 		"info": "Le Castellet\n[Dépt:83] Frq:119.0",
 		"latitude": "+43.25",
@@ -2582,7 +2582,7 @@
 	{
 		"altitude": "313",
 		"category": "CAP",
-		"code": " LFOH ",
+		"code": "LFOH",
 		"country": "LF",
 		"info": "Le Havre Octeville\n[Dépt:76] Frq:135.2",
 		"latitude": "+49.53",
@@ -2592,7 +2592,7 @@
 	{
 		"altitude": "423",
 		"category": "CAP",
-		"code": " LFOY ",
+		"code": "LFOY",
 		"country": "LF",
 		"info": "Le Havre Saint Romain\n[Dépt:76] Frq:123.5",
 		"latitude": "+49.54",
@@ -2602,7 +2602,7 @@
 	{
 		"altitude": "265",
 		"category": "CAP/Mil",
-		"code": " LFMC ",
+		"code": "LFMC",
 		"country": "LF",
 		"info": "Le Luc Le Cannet\n[Dépt:83] Frq:123.0",
 		"latitude": "+43.38",
@@ -2612,7 +2612,7 @@
 	{
 		"altitude": "194",
 		"category": "CAP",
-		"code": " LFRM ",
+		"code": "LFRM",
 		"country": "LF",
 		"info": "Le Mans Arnage\n[Dépt:72] Frq:125.9",
 		"latitude": "+47.95",
@@ -2622,7 +2622,7 @@
 	{
 		"altitude": "387",
 		"category": "CAP",
-		"code": " LFPP ",
+		"code": "LFPP",
 		"country": "LF",
 		"info": "Le Plessis Belleville\n[Dépt:60] Frq:120.4",
 		"latitude": "+49.11",
@@ -2632,7 +2632,7 @@
 	{
 		"altitude": "2 731",
 		"category": "CAP",
-		"code": " LFHP ",
+		"code": "LFHP",
 		"country": "LF",
 		"info": "Le Puy Loudès\n[Dépt:43] Frq:118.0",
 		"latitude": "+45.08",
@@ -2642,7 +2642,7 @@
 	{
 		"altitude": "20",
 		"category": "CAP",
-		"code": " LFAT ",
+		"code": "LFAT",
 		"country": "LF",
 		"info": "Le Touquet Paris Plage\n[Dépt:62] Frq:118.45",
 		"latitude": "+50.51",
@@ -2652,7 +2652,7 @@
 	{
 		"altitude": "170",
 		"category": "CAP",
-		"code": " LFQL ",
+		"code": "LFQL",
 		"country": "LF",
 		"info": "Lens Bénifontaine\n[Dépt:62] Frq:123.35",
 		"latitude": "+50.47",
@@ -2662,7 +2662,7 @@
 	{
 		"altitude": "91",
 		"category": "CAP",
-		"code": " LFXU ",
+		"code": "LFXU",
 		"country": "LF",
 		"info": "les Mureaux\n[Dépt:78] Frq:122.95",
 		"latitude": "+49.00",
@@ -2672,7 +2672,7 @@
 	{
 		"altitude": "104",
 		"category": "CAP",
-		"code": " LFOO ",
+		"code": "LFOO",
 		"country": "LF",
 		"info": "les Sables d'Olonne Talmont\n[Dépt:85] Frq:123.35",
 		"latitude": "+46.48",
@@ -2682,7 +2682,7 @@
 	{
 		"altitude": "105",
 		"category": "CAP",
-		"code": " LFDU ",
+		"code": "LFDU",
 		"country": "LF",
 		"info": "Lesparre Saint Laurent du Médoc\n[Dépt:33] Frq:123.5",
 		"latitude": "+45.20",
@@ -2692,7 +2692,7 @@
 	{
 		"altitude": "96",
 		"category": "CAP",
-		"code": " LFOM ",
+		"code": "LFOM",
 		"country": "LF",
 		"info": "Lessay\n[Dépt:50] Frq:128.925",
 		"latitude": "+49.20",
@@ -2702,7 +2702,7 @@
 	{
 		"altitude": "204",
 		"category": "CAP",
-		"code": " LFMZ ",
+		"code": "LFMZ",
 		"country": "LF",
 		"info": "Lézignan Corbières\n[Dépt:11] Frq:121.2",
 		"latitude": "+43.17",
@@ -2712,7 +2712,7 @@
 	{
 		"altitude": "157",
 		"category": "CAP",
-		"code": " LFDI ",
+		"code": "LFDI",
 		"country": "LF",
 		"info": "Libourne Artigues de Lussac\n[Dépt:33] Frq:120.65",
 		"latitude": "+44.98",
@@ -2722,7 +2722,7 @@
 	{
 		"altitude": "157",
 		"category": "CAP",
-		"code": " LFQQ ",
+		"code": "LFQQ",
 		"country": "LF",
 		"info": "Lille Lesquin\n[Dépt:59] Frq:118.55",
 		"latitude": "+50.56",
@@ -2732,7 +2732,7 @@
 	{
 		"altitude": "70",
 		"category": "CAP",
-		"code": " LFQO ",
+		"code": "LFQO",
 		"country": "LF",
 		"info": "Lille Marcq en Baroeul\n[Dépt:59] Frq:122.0",
 		"latitude": "+50.69",
@@ -2742,7 +2742,7 @@
 	{
 		"altitude": "1 300",
 		"category": "CAP",
-		"code": " LFBL ",
+		"code": "LFBL",
 		"country": "LF",
 		"info": "Limoges Bellegarde\n[Dépt:87] Frq:119.55",
 		"latitude": "+45.86",
@@ -2752,7 +2752,7 @@
 	{
 		"altitude": "359",
 		"category": "CAP",
-		"code": " LFPL ",
+		"code": "LFPL",
 		"country": "LF",
 		"info": "Lognes Emerainville\n[Dépt:77] Frq:118.6",
 		"latitude": "+48.82",
@@ -2762,7 +2762,7 @@
 	{
 		"altitude": "1 153",
 		"category": "CAP",
-		"code": " LFGS ",
+		"code": "LFGS",
 		"country": "LF",
 		"info": "Longuyon Villette\n[Dépt:54] Frq:123.5",
 		"latitude": "+49.48",
@@ -2772,7 +2772,7 @@
 	{
 		"altitude": "762",
 		"category": "CAP",
-		"code": " LFGL ",
+		"code": "LFGL",
 		"country": "LF",
 		"info": "Lons le Saunier Courlaoux\n[Dépt:39] Frq:123.5",
 		"latitude": "+46.67",
@@ -2782,7 +2782,7 @@
 	{
 		"altitude": "160",
 		"category": "UR/Mil",
-		"code": " LFRH ",
+		"code": "LFRH",
 		"country": "LF",
 		"info": "Lorient Lann Bihoué\n[Dépt:56] Frq:122.7",
 		"latitude": "+47.76",
@@ -2792,7 +2792,7 @@
 	{
 		"altitude": "313",
 		"category": "CAP",
-		"code": " LFDL ",
+		"code": "LFDL",
 		"country": "LF",
 		"info": "Loudun\n[Dépt:86] Frq:123.5",
 		"latitude": "+47.04",
@@ -2802,7 +2802,7 @@
 	{
 		"altitude": "790",
 		"category": "CAP",
-		"code": " LFQC ",
+		"code": "LFQC",
 		"country": "LF",
 		"info": "Lunéville Croismare\n[Dépt:54] Frq:123.5",
 		"latitude": "+48.59",
@@ -2812,7 +2812,7 @@
 	{
 		"altitude": "913",
 		"category": "Mil",
-		"code": " LFSX ",
+		"code": "LFSX",
 		"country": "LF",
 		"info": "Luxeuil Saint Sauveur\n[Dépt:70] Frq:122.1",
 		"latitude": "+47.79",
@@ -2822,7 +2822,7 @@
 	{
 		"altitude": "659",
 		"category": "CAP",
-		"code": " LFLY ",
+		"code": "LFLY",
 		"country": "LF",
 		"info": "Lyon Bron\n[Dépt:69] Frq:118.1",
 		"latitude": "+45.73",
@@ -2832,7 +2832,7 @@
 	{
 		"altitude": "821",
 		"category": "CAP",
-		"code": " LFLL ",
+		"code": "LFLL",
 		"country": "LF",
 		"info": "Lyon Saint Exupéry\n[Dépt:69] Frq:120.45",
 		"latitude": "+45.73",
@@ -2842,7 +2842,7 @@
 	{
 		"altitude": "729",
 		"category": "CAP",
-		"code": " LFLM ",
+		"code": "LFLM",
 		"country": "LF",
 		"info": "Mâcon Charnay\n[Dépt:71] Frq:119.0",
 		"latitude": "+46.30",
@@ -2852,7 +2852,7 @@
 	{
 		"altitude": "1",
 		"category": "CAP",
-		"code": " LFTB ",
+		"code": "LFTB",
 		"country": "LF",
 		"info": "Marignane Hydrosurface\n[Dépt:13] Frq:132.95 Prov",
 		"latitude": "+43.45",
@@ -2862,7 +2862,7 @@
 	{
 		"altitude": "110",
 		"category": "CAP",
-		"code": " LFDM ",
+		"code": "LFDM",
 		"country": "LF",
 		"info": "Marmande Virazeil\n[Dépt:42] Frq:120.05",
 		"latitude": "+44.50",
@@ -2872,7 +2872,7 @@
 	{
 		"altitude": "70",
 		"category": "CAP",
-		"code": " LFML ",
+		"code": "LFML",
 		"country": "LF",
 		"info": "Marseille Provence\n[Dépt:13] Frq:133.1",
 		"latitude": "+43.44",
@@ -2882,7 +2882,7 @@
 	{
 		"altitude": "452",
 		"category": "CAP",
-		"code": " LFQJ ",
+		"code": "LFQJ",
 		"country": "LF",
 		"info": "Maubeuge Elesmes\n[Dépt:59] Frq:121.0",
 		"latitude": "+50.31",
@@ -2892,7 +2892,7 @@
 	{
 		"altitude": "568",
 		"category": "CAP",
-		"code": " LFJB ",
+		"code": "LFJB",
 		"country": "LF",
 		"info": "Mauléon\n[Dépt:79] Frq:123.5",
 		"latitude": "+46.90",
@@ -2902,7 +2902,7 @@
 	{
 		"altitude": "220",
 		"category": "CAP",
-		"code": " LFPE ",
+		"code": "LFPE",
 		"country": "LF",
 		"info": "Meaux Esbly\n[Dépt:77] Frq:120.15",
 		"latitude": "+48.93",
@@ -2912,7 +2912,7 @@
 	{
 		"altitude": "304",
 		"category": "Adm",
-		"code": " LFPM ",
+		"code": "LFPM",
 		"country": "LF",
 		"info": "Melun Villaroche\n[Dépt:77] Frq:121.1",
 		"latitude": "+48.61",
@@ -2922,7 +2922,7 @@
 	{
 		"altitude": "3 362",
 		"category": "CAP",
-		"code": " LFNB ",
+		"code": "LFNB",
 		"country": "LF",
 		"info": "Mende Brenoux\n[Dépt:48] Frq:119.6",
 		"latitude": "+44.50",
@@ -2932,7 +2932,7 @@
 	{
 		"altitude": "61",
 		"category": "CAP",
-		"code": " LFQT ",
+		"code": "LFQT",
 		"country": "LF",
 		"info": "Merville Calonne\n[Dépt:59] Frq:119.075",
 		"latitude": "+50.62",
@@ -2942,7 +2942,7 @@
 	{
 		"altitude": "629",
 		"category": "Adm",
-		"code": " LFSF ",
+		"code": "LFSF",
 		"country": "LF",
 		"info": "Metz Frescaty\n[Dépt:57] Frq:119.3",
 		"latitude": "+49.08",
@@ -2952,7 +2952,7 @@
 	{
 		"altitude": "870",
 		"category": "CAP",
-		"code": " LFJL ",
+		"code": "LFJL",
 		"country": "LF",
 		"info": "Metz Nancy Lorraine\n[Dépt:57] Frq:118.2",
 		"latitude": "+48.98",
@@ -2962,7 +2962,7 @@
 	{
 		"altitude": "2 606",
 		"category": "CAP",
-		"code": " LFCM ",
+		"code": "LFCM",
 		"country": "LF",
 		"info": "Millau Larzac\n[Dépt:12] Frq:120.8",
 		"latitude": "+43.99",
@@ -2972,7 +2972,7 @@
 	{
 		"altitude": "165",
 		"category": "CAP",
-		"code": " LFCZ ",
+		"code": "LFCZ",
 		"country": "LF",
 		"info": "Mimizan\n[Dépt:40] Frq:118.9",
 		"latitude": "+44.15",
@@ -2982,7 +2982,7 @@
 	{
 		"altitude": "10",
 		"category": "CAP",
-		"code": " LFVM ",
+		"code": "LFVM",
 		"country": "LF",
 		"info": "Miquelon Frq:119.1",
 		"latitude": "+47.10",
@@ -2992,7 +2992,7 @@
 	{
 		"altitude": "2 963",
 		"category": "CAP",
-		"code": " LFNC ",
+		"code": "LFNC",
 		"country": "LF",
 		"info": "Mont Dauphin Saint Crépin\n[Dépt:05] Frq:123.5",
 		"latitude": "+44.70",
@@ -3002,7 +3002,7 @@
 	{
 		"altitude": "203",
 		"category": "Mil",
-		"code": " LFBM ",
+		"code": "LFBM",
 		"country": "LF",
 		"info": "Mont de Marsan\n[Dépt:40] Frq:142.75",
 		"latitude": "+43.91",
@@ -3012,7 +3012,7 @@
 	{
 		"altitude": "186",
 		"category": "CAP",
-		"code": " LFFW ",
+		"code": "LFFW",
 		"country": "LF",
 		"info": "Montaigu Saint Georges\n[Dépt:85] Frq:123.5",
 		"latitude": "+46.93",
@@ -3022,7 +3022,7 @@
 	{
 		"altitude": "308",
 		"category": "CAP",
-		"code": " LFEM ",
+		"code": "LFEM",
 		"country": "LF",
 		"info": "Montargis Vimory\n[Dépt:45] Frq:123.5",
 		"latitude": "+47.96",
@@ -3032,7 +3032,7 @@
 	{
 		"altitude": "353",
 		"category": "CAP",
-		"code": " LFDB ",
+		"code": "LFDB",
 		"country": "LF",
 		"info": "Montauban\n[Dépt:82] Frq:120.6",
 		"latitude": "+44.03",
@@ -3042,7 +3042,7 @@
 	{
 		"altitude": "1 041",
 		"category": "CAP",
-		"code": " LFSM ",
+		"code": "LFSM",
 		"country": "LF",
 		"info": "Montbéliard Courcelles\n[Dépt:25] Frq:132.025",
 		"latitude": "+47.49",
@@ -3052,7 +3052,7 @@
 	{
 		"altitude": "1 032",
 		"category": "CAP",
-		"code": " LFGM ",
+		"code": "LFGM",
 		"country": "LF",
 		"info": "Montceau les Mines Pouilloux\n[Dépt:71] Frq:123.5",
 		"latitude": "+46.60",
@@ -3062,7 +3062,7 @@
 	{
 		"altitude": "241",
 		"category": "CAP",
-		"code": " LFLQ ",
+		"code": "LFLQ",
 		"country": "LF",
 		"info": "Montélimar Ancône\n[Dépt:26] Frq:123.5",
 		"latitude": "+44.58",
@@ -3072,7 +3072,7 @@
 	{
 		"altitude": "145",
 		"category": "CAP",
-		"code": " LFDC ",
+		"code": "LFDC",
 		"country": "LF",
 		"info": "Montendre Marcillac\n[Dépt:33] Frq:123.5",
 		"latitude": "+45.27",
@@ -3082,7 +3082,7 @@
 	{
 		"altitude": "1 367",
 		"category": "CAP",
-		"code": " LFBK ",
+		"code": "LFBK",
 		"country": "LF",
 		"info": "Montluçon Gueret\n[Dépt:23] Frq:118.4",
 		"latitude": "+46.23",
@@ -3092,7 +3092,7 @@
 	{
 		"altitude": "5",
 		"category": "CAP",
-		"code": " LFNG ",
+		"code": "LFNG",
 		"country": "LF",
 		"info": "Montpellier Candillargues\n[Dépt:34] Frq:120.6",
 		"latitude": "+43.61",
@@ -3102,7 +3102,7 @@
 	{
 		"altitude": "17",
 		"category": "CAP",
-		"code": " LFMT ",
+		"code": "LFMT",
 		"country": "LF",
 		"info": "Montpellier Méditerranée\n[Dépt:34] Frq:118.775",
 		"latitude": "+43.58",
@@ -3112,7 +3112,7 @@
 	{
 		"altitude": "803",
 		"category": "CAP",
-		"code": " LFHI ",
+		"code": "LFHI",
 		"country": "LF",
 		"info": "Morestel\n[Dépt:38] Frq:123.5",
 		"latitude": "+45.69",
@@ -3122,7 +3122,7 @@
 	{
 		"altitude": "253",
 		"category": "CAP",
-		"code": " LFPU ",
+		"code": "LFPU",
 		"country": "LF",
 		"info": "Moret Episy\n[Dépt:77] Frq:123.5",
 		"latitude": "+48.34",
@@ -3132,7 +3132,7 @@
 	{
 		"altitude": "277",
 		"category": "CAP",
-		"code": " LFRU ",
+		"code": "LFRU",
 		"country": "LF",
 		"info": "Morlaix Ploujean\n[Dépt:29] Frq:118.5",
 		"latitude": "+48.60",
@@ -3142,7 +3142,7 @@
 	{
 		"altitude": "885",
 		"category": "CAP",
-		"code": " LFAX ",
+		"code": "LFAX",
 		"country": "LF",
 		"info": "Mortagne au Perche\n[Dépt:61] Frq:123.5",
 		"latitude": "+48.54",
@@ -3152,7 +3152,7 @@
 	{
 		"altitude": "915",
 		"category": "CAP",
-		"code": " LFHY ",
+		"code": "LFHY",
 		"country": "LF",
 		"info": "Moulins Montbeugny\n[Dépt:03] Frq:125.2",
 		"latitude": "+46.53",
@@ -3162,7 +3162,7 @@
 	{
 		"altitude": "789",
 		"category": "CAP",
-		"code": " LFGB ",
+		"code": "LFGB",
 		"country": "LF",
 		"info": "Mulhouse Habsheim\n[Dépt:68] Frq:125.25",
 		"latitude": "+47.74",
@@ -3172,7 +3172,7 @@
 	{
 		"altitude": "623",
 		"category": "CAP",
-		"code": " LFBR ",
+		"code": "LFBR",
 		"country": "LF",
 		"info": "Muret Lherm\n[Dépt:31] Frq:123.2",
 		"latitude": "+43.45",
@@ -3182,7 +3182,7 @@
 	{
 		"altitude": "751",
 		"category": "CAP",
-		"code": " LFSN ",
+		"code": "LFSN",
 		"country": "LF",
 		"info": "Nancy Essey\n[Dépt:54] Frq:119.6",
 		"latitude": "+48.69",
@@ -3192,7 +3192,7 @@
 	{
 		"altitude": "1 106",
 		"category": "Mil",
-		"code": " LFSO ",
+		"code": "LFSO",
 		"country": "LF",
 		"info": "Nancy Ochey\n[Dépt:54] Frq:127.25",
 		"latitude": "+48.58",
@@ -3202,7 +3202,7 @@
 	{
 		"altitude": "428",
 		"category": "CAP",
-		"code": " LFAI ",
+		"code": "LFAI",
 		"country": "LF",
 		"info": "Nangis les Loges\n[Dépt:77] Frq:127.975",
 		"latitude": "+48.60",
@@ -3212,7 +3212,7 @@
 	{
 		"altitude": "90",
 		"category": "CAP",
-		"code": " LFRS ",
+		"code": "LFRS",
 		"country": "LF",
 		"info": "Nantes Atlantique\n[Dépt:44] Frq:118.65",
 		"latitude": "+47.16",
@@ -3222,7 +3222,7 @@
 	{
 		"altitude": "1 228",
 		"category": "CAP",
-		"code": " LFFT ",
+		"code": "LFFT",
 		"country": "LF",
 		"info": "Neufchâteau\n[Dépt:88] Frq:123.5",
 		"latitude": "+48.36",
@@ -3232,7 +3232,7 @@
 	{
 		"altitude": "602",
 		"category": "CAP",
-		"code": " LFQG ",
+		"code": "LFQG",
 		"country": "LF",
 		"info": "Nevers Fourchambault\n[Dépt:58] Frq:120.6",
 		"latitude": "+47.00",
@@ -3242,7 +3242,7 @@
 	{
 		"altitude": "12",
 		"category": "CAP",
-		"code": " LFMN ",
+		"code": "LFMN",
 		"country": "LF",
 		"info": "Nice Côte d'Azur\n[Dépt:06] Frq:118.7",
 		"latitude": "+43.67",
@@ -3252,7 +3252,7 @@
 	{
 		"altitude": "197",
 		"category": "CAP",
-		"code": " LFME ",
+		"code": "LFME",
 		"country": "LF",
 		"info": "Nîmes Courbessac\n[Dépt:30] Frq:118.25",
 		"latitude": "+43.85",
@@ -3262,7 +3262,7 @@
 	{
 		"altitude": "309",
 		"category": "CAP/Mil",
-		"code": " LFTW ",
+		"code": "LFTW",
 		"country": "LF",
 		"info": "Nîmes Garons\n[Dépt:30] Frq:123.2",
 		"latitude": "+43.76",
@@ -3272,7 +3272,7 @@
 	{
 		"altitude": "201",
 		"category": "CAP",
-		"code": " LFBN ",
+		"code": "LFBN",
 		"country": "LF",
 		"info": "Niort Marais Poitevin\n[Dépt:79] Frq:119.1",
 		"latitude": "+46.31",
@@ -3282,7 +3282,7 @@
 	{
 		"altitude": "304",
 		"category": "CAP",
-		"code": " LFCN ",
+		"code": "LFCN",
 		"country": "LF",
 		"info": "Nogaro\n[Dépt:32] Frq:119.5",
 		"latitude": "+43.77",
@@ -3292,7 +3292,7 @@
 	{
 		"altitude": "984",
 		"category": "CAP",
-		"code": " LFCO ",
+		"code": "LFCO",
 		"country": "LF",
 		"info": "Oloron Herrère\n[Dépt:64] Frq:118.775",
 		"latitude": "+43.16",
@@ -3302,7 +3302,7 @@
 	{
 		"altitude": "197",
 		"category": "Mil",
-		"code": " LFMO ",
+		"code": "LFMO",
 		"country": "LF",
 		"info": "Orange Caritat\n[Dépt:84] Frq:120.7",
 		"latitude": "+44.14",
@@ -3312,7 +3312,7 @@
 	{
 		"altitude": "412",
 		"category": "UR/Mil",
-		"code": " LFOJ ",
+		"code": "LFOJ",
 		"country": "LF",
 		"info": "Orléans Bricy\n[Dépt:45] Frq:122.1",
 		"latitude": "+47.99",
@@ -3322,7 +3322,7 @@
 	{
 		"altitude": "396",
 		"category": "CAP",
-		"code": " LFOZ ",
+		"code": "LFOZ",
 		"country": "LF",
 		"info": "Orléans Saint Denis de l'Hôtel\n[Dépt:45] Frq:122.4",
 		"latitude": "+47.90",
@@ -3332,7 +3332,7 @@
 	{
 		"altitude": "142",
 		"category": "CAP",
-		"code": " LFEC ",
+		"code": "LFEC",
 		"country": "LF",
 		"info": "Ouessant\n[Dépt:29] Frq:118.1",
 		"latitude": "+48.46",
@@ -3342,7 +3342,7 @@
 	{
 		"altitude": "1 755",
 		"category": "CAP",
-		"code": " LFLK ",
+		"code": "LFLK",
 		"country": "LF",
 		"info": "Oyonnax Arbent\n[Dépt:01] Frq:123.5",
 		"latitude": "+46.28",
@@ -3352,7 +3352,7 @@
 	{
 		"altitude": "1 114",
 		"category": "CAP",
-		"code": " LFDJ ",
+		"code": "LFDJ",
 		"country": "LF",
 		"info": "Pamiers les Pujols\n[Dépt:09] Frq:118.175",
 		"latitude": "+43.09",
@@ -3362,7 +3362,7 @@
 	{
 		"altitude": "1 003",
 		"category": "CAP",
-		"code": " LFGN ",
+		"code": "LFGN",
 		"country": "LF",
 		"info": "Paray Le Monial\n[Dépt:71] Frq:123.5",
 		"latitude": "+46.47",
@@ -3372,7 +3372,7 @@
 	{
 		"altitude": "392",
 		"category": "CAP",
-		"code": " LFPG ",
+		"code": "LFPG",
 		"country": "LF",
 		"info": "Paris Ch de Gaulle\n[Dépt:95] Frq:119.25",
 		"latitude": "+49.01",
@@ -3382,7 +3382,7 @@
 	{
 		"altitude": "220",
 		"category": "CAP",
-		"code": " LFPB ",
+		"code": "LFPB",
 		"country": "LF",
 		"info": "Paris Le Bourget\n[Dépt:93] Frq:118.925",
 		"latitude": "+48.97",
@@ -3392,7 +3392,7 @@
 	{
 		"altitude": "291",
 		"category": "CAP",
-		"code": " LFPO ",
+		"code": "LFPO",
 		"country": "LF",
 		"info": "Paris Orly\n[Dépt:94] Frq:118.7",
 		"latitude": "+48.72",
@@ -3402,7 +3402,7 @@
 	{
 		"altitude": "616",
 		"category": "CAP",
-		"code": " LFBP ",
+		"code": "LFBP",
 		"country": "LF",
 		"info": "Pau Pyrénées\n[Dépt:64] Frq:124.15",
 		"latitude": "+43.38",
@@ -3412,7 +3412,7 @@
 	{
 		"altitude": "328",
 		"category": "CAP",
-		"code": " LFBX ",
+		"code": "LFBX",
 		"country": "LF",
 		"info": "Périgueux Bassillac\n[Dépt:24] Frq:118.775",
 		"latitude": "+45.20",
@@ -3422,7 +3422,7 @@
 	{
 		"altitude": "295",
 		"category": "CAP",
-		"code": " LFAG ",
+		"code": "LFAG",
 		"country": "LF",
 		"info": "Péronne Saint Quentin\n[Dépt:80] Frq:129.8",
 		"latitude": "+49.87",
@@ -3432,7 +3432,7 @@
 	{
 		"altitude": "703",
 		"category": "CAP",
-		"code": " LFHC ",
+		"code": "LFHC",
 		"country": "LF",
 		"info": "Pérouges Meximieux\n[Dépt:01] Frq:123.5",
 		"latitude": "+45.87",
@@ -3442,7 +3442,7 @@
 	{
 		"altitude": "144",
 		"category": "CAP",
-		"code": " LFMP ",
+		"code": "LFMP",
 		"country": "LF",
 		"info": "Perpignan Rivesaltes\n[Dépt:66] Frq:118.3",
 		"latitude": "+42.74",
@@ -3452,7 +3452,7 @@
 	{
 		"altitude": "149",
 		"category": "CAP",
-		"code": " LFPA ",
+		"code": "LFPA",
 		"country": "LF",
 		"info": "Persan Beaumont\n[Dépt:95] Frq:119.5",
 		"latitude": "+49.16",
@@ -3462,7 +3462,7 @@
 	{
 		"altitude": "1 017",
 		"category": "Mil",
-		"code": " LFQP ",
+		"code": "LFQP",
 		"country": "LF",
 		"info": "Phalsbourg Bourscheid\n[Dépt:57] Frq:129.8",
 		"latitude": "+48.77",
@@ -3472,7 +3472,7 @@
 	{
 		"altitude": "195",
 		"category": "CAP",
-		"code": " LFHD ",
+		"code": "LFHD",
 		"country": "LF",
 		"info": "Pierrelatte\n[Dépt:26] Frq:118.975",
 		"latitude": "+44.40",
@@ -3482,7 +3482,7 @@
 	{
 		"altitude": "237",
 		"category": "CAP",
-		"code": " LFRP ",
+		"code": "LFRP",
 		"country": "LF",
 		"info": "Ploërmel Loyat\n[Dépt:56] Frq:123.5",
 		"latitude": "+48.00",
@@ -3492,7 +3492,7 @@
 	{
 		"altitude": "423",
 		"category": "CAP",
-		"code": " LFBI ",
+		"code": "LFBI",
 		"country": "LF",
 		"info": "Poitiers Biard\n[Dépt:86] Frq:118.5",
 		"latitude": "+46.59",
@@ -3502,7 +3502,7 @@
 	{
 		"altitude": "117",
 		"category": "CAP",
-		"code": " LFCP ",
+		"code": "LFCP",
 		"country": "LF",
 		"info": "Pons Avy\n[Dépt:17] Frq:123.5",
 		"latitude": "+45.57",
@@ -3512,7 +3512,7 @@
 	{
 		"altitude": "232",
 		"category": "CAP",
-		"code": " LFGO ",
+		"code": "LFGO",
 		"country": "LF",
 		"info": "Pont Sur Yonne\n[Dépt:89] Frq:118.175",
 		"latitude": "+48.29",
@@ -3522,7 +3522,7 @@
 	{
 		"altitude": "2 683",
 		"category": "CAP",
-		"code": " LFSP ",
+		"code": "LFSP",
 		"country": "LF",
 		"info": "Pontarlier\n[Dépt:25] Frq:135.7",
 		"latitude": "+46.91",
@@ -3532,7 +3532,7 @@
 	{
 		"altitude": "406",
 		"category": "CAP",
-		"code": " LFED ",
+		"code": "LFED",
 		"country": "LF",
 		"info": "Pontivy\n[Dépt:56] Frq:129.75",
 		"latitude": "+48.06",
@@ -3542,7 +3542,7 @@
 	{
 		"altitude": "325",
 		"category": "CAP",
-		"code": " LFPT ",
+		"code": "LFPT",
 		"country": "LF",
 		"info": "Pontoise Cormeilles\n[Dépt:95] Frq:121.2",
 		"latitude": "+49.10",
@@ -3552,7 +3552,7 @@
 	{
 		"altitude": "1 413",
 		"category": "CAP",
-		"code": " LFEP ",
+		"code": "LFEP",
 		"country": "LF",
 		"info": "Pouilly Maconge\n[Dépt:21] Frq:123.5",
 		"latitude": "+47.22",
@@ -3562,7 +3562,7 @@
 	{
 		"altitude": "16",
 		"category": "CAP",
-		"code": " LFKO ",
+		"code": "LFKO",
 		"country": "LF",
 		"info": "Propriano\n[Dépt:20] Frq:118.5",
 		"latitude": "+41.66",
@@ -3572,7 +3572,7 @@
 	{
 		"altitude": "38",
 		"category": "CAP",
-		"code": " LFEQ ",
+		"code": "LFEQ",
 		"country": "LF",
 		"info": "Quiberon\n[Dépt:56] Frq:119.6",
 		"latitude": "+47.48",
@@ -3582,7 +3582,7 @@
 	{
 		"altitude": "293",
 		"category": "CAP",
-		"code": " LFRQ ",
+		"code": "LFRQ",
 		"country": "LF",
 		"info": "Quimper Pluguffan\n[Dépt:29] Frq:118.625",
 		"latitude": "+47.98",
@@ -3592,7 +3592,7 @@
 	{
 		"altitude": "225",
 		"category": "CAP",
-		"code": " LFER ",
+		"code": "LFER",
 		"country": "LF",
 		"info": "Redon Bains sur Oust\n[Dépt:35] Frq:123.5",
 		"latitude": "+47.70",
@@ -3602,7 +3602,7 @@
 	{
 		"altitude": "313",
 		"category": "CAP",
-		"code": " LFQA ",
+		"code": "LFQA",
 		"country": "LF",
 		"info": "Reims Prunay\n[Dépt:51] Frq:134.925",
 		"latitude": "+49.21",
@@ -3612,7 +3612,7 @@
 	{
 		"altitude": "124",
 		"category": "CAP",
-		"code": " LFRN ",
+		"code": "LFRN",
 		"country": "LF",
 		"info": "Rennes Saint Jacques\n[Dépt:35] Frq:120.5",
 		"latitude": "+48.07",
@@ -3622,7 +3622,7 @@
 	{
 		"altitude": "1 106",
 		"category": "CAP",
-		"code": " LFLO ",
+		"code": "LFLO",
 		"country": "LF",
 		"info": "Roanne Renaison\n[Dépt:42] Frq:120.9",
 		"latitude": "+46.05",
@@ -3632,7 +3632,7 @@
 	{
 		"altitude": "60",
 		"category": "CAP",
-		"code": " LFDN ",
+		"code": "LFDN",
 		"country": "LF",
 		"info": "Rochefort Charente Maritime\n[Dépt:17] Frq:119.3",
 		"latitude": "+45.89",
@@ -3642,7 +3642,7 @@
 	{
 		"altitude": "1 910",
 		"category": "CAP",
-		"code": " LFCR ",
+		"code": "LFCR",
 		"country": "LF",
 		"info": "Rodez Aveyron\n[Dépt:12] Frq:118.125",
 		"latitude": "+44.41",
@@ -3652,7 +3652,7 @@
 	{
 		"altitude": "595",
 		"category": "CAP",
-		"code": " LFHE ",
+		"code": "LFHE",
 		"country": "LF",
 		"info": "Romans Saint Paul\n[Dépt:26] Frq:118.8",
 		"latitude": "+45.06",
@@ -3662,7 +3662,7 @@
 	{
 		"altitude": "289",
 		"category": "CAP",
-		"code": " LFYR ",
+		"code": "LFYR",
 		"country": "LF",
 		"info": "Romorantin Pruniers\n[Dépt:41] Frq:119.075",
 		"latitude": "+47.32",
@@ -3672,7 +3672,7 @@
 	{
 		"altitude": "512",
 		"category": "CAP",
-		"code": " LFOP ",
+		"code": "LFOP",
 		"country": "LF",
 		"info": "Rouen Vallée de Seine\n[Dépt:76] Frq:120.2",
 		"latitude": "+49.39",
@@ -3682,7 +3682,7 @@
 	{
 		"altitude": "72",
 		"category": "CAP",
-		"code": " LFCY ",
+		"code": "LFCY",
 		"country": "LF",
 		"info": "Royans Médis\n[Dépt:17] Frq:118.8",
 		"latitude": "+45.63",
@@ -3692,7 +3692,7 @@
 	{
 		"altitude": "452",
 		"category": "CAP",
-		"code": " LFRT ",
+		"code": "LFRT",
 		"country": "LF",
 		"info": "Saint Brieuc Armor\n[Dépt:22] Frq:118.45",
 		"latitude": "+48.54",
@@ -3702,7 +3702,7 @@
 	{
 		"altitude": "1 307",
 		"category": "CAP",
-		"code": " LFHG ",
+		"code": "LFHG",
 		"country": "LF",
 		"info": "Saint Chamond l'Horme\n[Dépt:42] Frq:123.5",
 		"latitude": "+45.49",
@@ -3712,7 +3712,7 @@
 	{
 		"altitude": "373",
 		"category": "CAP",
-		"code": " LFPZ ",
+		"code": "LFPZ",
 		"country": "LF",
 		"info": "Saint Cyr l'École\n[Dépt:78] Frq:118.0",
 		"latitude": "+48.81",
@@ -3722,7 +3722,7 @@
 	{
 		"altitude": "1 187",
 		"category": "CAP",
-		"code": " LFGY ",
+		"code": "LFGY",
 		"country": "LF",
 		"info": "Saint Dié Remoneix\n[Dépt:88] Frq:123.5",
 		"latitude": "+48.27",
@@ -3732,7 +3732,7 @@
 	{
 		"altitude": "458",
 		"category": "Mil",
-		"code": " LFSI ",
+		"code": "LFSI",
 		"country": "LF",
 		"info": "Saint Dizier Robinson\n[Dépt:52] Frq:134.775",
 		"latitude": "+48.63",
@@ -3742,7 +3742,7 @@
 	{
 		"altitude": "1 325",
 		"category": "CAP",
-		"code": " LFMH ",
+		"code": "LFMH",
 		"country": "LF",
 		"info": "Saint Etienne Bouthéon\n[Dépt:42] Frq:119.250",
 		"latitude": "+45.53",
@@ -3752,7 +3752,7 @@
 	{
 		"altitude": "355",
 		"category": "CAP",
-		"code": " LFGP ",
+		"code": "LFGP",
 		"country": "LF",
 		"info": "Saint Florentin Cheu\n[Dépt:89] Frq:123.5",
 		"latitude": "+47.98",
@@ -3762,7 +3762,7 @@
 	{
 		"altitude": "3 218",
 		"category": "CAP",
-		"code": " LFHQ ",
+		"code": "LFHQ",
 		"country": "LF",
 		"info": "Saint Flour Coltines\n[Dépt:15] Frq:120.05",
 		"latitude": "+45.08",
@@ -3772,7 +3772,7 @@
 	{
 		"altitude": "1 320",
 		"category": "CAP",
-		"code": " LFIM ",
+		"code": "LFIM",
 		"country": "LF",
 		"info": "Saint Gaudens Montrejau\n[Dépt:31] Frq:120.425",
 		"latitude": "+43.11",
@@ -3782,7 +3782,7 @@
 	{
 		"altitude": "1 376",
 		"category": "CAP",
-		"code": " LFCG ",
+		"code": "LFCG",
 		"country": "LF",
 		"info": "Saint Girons Antichan\n[Dépt:09] Frq:118.25",
 		"latitude": "+43.01",
@@ -3792,7 +3792,7 @@
 	{
 		"altitude": "443",
 		"category": "CAP",
-		"code": " LFIS ",
+		"code": "LFIS",
 		"country": "LF",
 		"info": "Saint Inglevert les 2 caps\n[Dépt:62] Frq:123.5",
 		"latitude": "+50.88",
@@ -3802,7 +3802,7 @@
 	{
 		"altitude": "245",
 		"category": "CAP",
-		"code": " LFIY ",
+		"code": "LFIY",
 		"country": "LF",
 		"info": "Saint Jean d'Angély Saint Denis du Pin\n[Dépt:17] Frq:123.5",
 		"latitude": "+45.97",
@@ -3812,7 +3812,7 @@
 	{
 		"altitude": "903",
 		"category": "CAP",
-		"code": " LFBJ ",
+		"code": "LFBJ",
 		"country": "LF",
 		"info": "Saint Junien\n[Dépt:87] Frq:123.5",
 		"latitude": "+45.90",
@@ -3822,7 +3822,7 @@
 	{
 		"altitude": "13",
 		"category": "CAP",
-		"code": " LFRZ ",
+		"code": "LFRZ",
 		"country": "LF",
 		"info": "Saint Nazaire Montoir\n[Dépt:44] Frq:118.95",
 		"latitude": "+47.31",
@@ -3832,7 +3832,7 @@
 	{
 		"altitude": "249",
 		"category": "CAP",
-		"code": " LFQN ",
+		"code": "LFQN",
 		"country": "LF",
 		"info": "Saint Omer Wizernes\n[Dépt:62] Frq:123.5",
 		"latitude": "+50.73",
@@ -3842,7 +3842,7 @@
 	{
 		"altitude": "27",
 		"category": "CAP",
-		"code": " LFVP ",
+		"code": "LFVP",
 		"country": "LF",
 		"info": "Saint Pierre Frq:118.5",
 		"latitude": "+46.76",
@@ -3852,7 +3852,7 @@
 	{
 		"altitude": "22",
 		"category": "CAP",
-		"code": " LFDP ",
+		"code": "LFDP",
 		"country": "LF",
 		"info": "Saint Pierre d'Oléron\n[Dépt:17] Frq:120.2",
 		"latitude": "+45.96",
@@ -3862,7 +3862,7 @@
 	{
 		"altitude": "325",
 		"category": "CAP",
-		"code": " LFOW ",
+		"code": "LFOW",
 		"country": "LF",
 		"info": "Saint Quentin Roupy\n[Dépt:02] Frq:123.5",
 		"latitude": "+49.82",
@@ -3872,7 +3872,7 @@
 	{
 		"altitude": "509",
 		"category": "CAP",
-		"code": " LFLR ",
+		"code": "LFLR",
 		"country": "LF",
 		"info": "Saint Rambert d'Albon\n[Dépt:26] Frq:123.5",
 		"latitude": "+45.26",
@@ -3882,7 +3882,7 @@
 	{
 		"altitude": "269",
 		"category": "CAP",
-		"code": " LFOS ",
+		"code": "LFOS",
 		"country": "LF",
 		"info": "Saint Valéry Vittefleur\n[Dépt:76] Frq:123.5",
 		"latitude": "+49.84",
@@ -3892,7 +3892,7 @@
 	{
 		"altitude": "796",
 		"category": "CAP",
-		"code": " LFLN ",
+		"code": "LFLN",
 		"country": "LF",
 		"info": "Saint Yan\n[Dépt:71] Frq:122.3",
 		"latitude": "+46.41",
@@ -3902,7 +3902,7 @@
 	{
 		"altitude": "282",
 		"category": "CAP",
-		"code": " LFDF ",
+		"code": "LFDF",
 		"country": "LF",
 		"info": "Sainte Foy La Grande\n[Dépt:33] Frq:123.5",
 		"latitude": "+44.85",
@@ -3912,7 +3912,7 @@
 	{
 		"altitude": "4 331",
 		"category": "UR/Mil",
-		"code": " LFYS ",
+		"code": "LFYS",
 		"country": "LF",
 		"info": "Sainte Léocadie\n[Dépt:66] Frq:118.625",
 		"latitude": "+42.45",
@@ -3922,7 +3922,7 @@
 	{
 		"altitude": "118",
 		"category": "CAP/Mil",
-		"code": " LFXB ",
+		"code": "LFXB",
 		"country": "LF",
 		"info": "Saintes Thénac\n[Dépt:17] Frq:122.4",
 		"latitude": "+45.70",
@@ -3932,7 +3932,7 @@
 	{
 		"altitude": "197",
 		"category": "Mil",
-		"code": " LFMY ",
+		"code": "LFMY",
 		"country": "LF",
 		"info": "Salon de Provence\n[Dépt:13] Frq:122.1",
 		"latitude": "+43.60",
@@ -3942,7 +3942,7 @@
 	{
 		"altitude": "247",
 		"category": "CAP",
-		"code": " LFNE ",
+		"code": "LFNE",
 		"country": "LF",
 		"info": "Salon Eyguières\n[Dépt:13] Frq:119.575",
 		"latitude": "+43.66",
@@ -3952,7 +3952,7 @@
 	{
 		"altitude": "979",
 		"category": "CAP",
-		"code": " LFDS ",
+		"code": "LFDS",
 		"country": "LF",
 		"info": "Sarlat Domme\n[Dépt:24] Frq:118.15",
 		"latitude": "+44.79",
@@ -3962,7 +3962,7 @@
 	{
 		"altitude": "873",
 		"category": "CAP",
-		"code": " LFGT ",
+		"code": "LFGT",
 		"country": "LF",
 		"info": "Sarrebourg Buhl\n[Dépt:57] Frq:123.5",
 		"latitude": "+48.72",
@@ -3972,7 +3972,7 @@
 	{
 		"altitude": "863",
 		"category": "CAP",
-		"code": " LFGU ",
+		"code": "LFGU",
 		"country": "LF",
 		"info": "Sarreguemines Neunkirch\n[Dépt:57] Frq:123.5",
 		"latitude": "+49.13",
@@ -3982,7 +3982,7 @@
 	{
 		"altitude": "1 713",
 		"category": "CAP",
-		"code": " LFEW ",
+		"code": "LFEW",
 		"country": "LF",
 		"info": "Saulieu Liernais\n[Dépt:21] Frq:123.5",
 		"latitude": "+47.24",
@@ -3992,7 +3992,7 @@
 	{
 		"altitude": "269",
 		"category": "CAP",
-		"code": " LFOD ",
+		"code": "LFOD",
 		"country": "LF",
 		"info": "Saumur Saint Florent\n[Dépt:49] Frq:120.6",
 		"latitude": "+47.26",
@@ -4002,7 +4002,7 @@
 	{
 		"altitude": "513",
 		"category": "CAP",
-		"code": " LFSJ ",
+		"code": "LFSJ",
 		"country": "LF",
 		"info": "Sedan Douzy\n[Dépt:08] Frq:123.5",
 		"latitude": "+49.66",
@@ -4012,7 +4012,7 @@
 	{
 		"altitude": "1 051",
 		"category": "CAP",
-		"code": " LFGQ ",
+		"code": "LFGQ",
 		"country": "LF",
 		"info": "Semur en Auxois\n[Dépt:21] Frq:123.5",
 		"latitude": "+47.48",
@@ -4022,7 +4022,7 @@
 	{
 		"altitude": "355",
 		"category": "CAP",
-		"code": " LFFZ ",
+		"code": "LFFZ",
 		"country": "LF",
 		"info": "Sézanne Saint Rémy\n[Dépt:51] Frq:123.5",
 		"latitude": "+48.71",
@@ -4032,7 +4032,7 @@
 	{
 		"altitude": "518",
 		"category": "CAP",
-		"code": " LFJS ",
+		"code": "LFJS",
 		"country": "LF",
 		"info": "Soissons Courmelles\n[Dépt:02] Frq:120.375",
 		"latitude": "+49.34",
@@ -4042,7 +4042,7 @@
 	{
 		"altitude": "28",
 		"category": "Mil",
-		"code": " LFKS ",
+		"code": "LFKS",
 		"country": "LF",
 		"info": "Solenzara\n[Dépt:20] Frq:118.35",
 		"latitude": "+41.93",
@@ -4052,7 +4052,7 @@
 	{
 		"altitude": "11",
 		"category": "CAP",
-		"code": " LFDK ",
+		"code": "LFDK",
 		"country": "LF",
 		"info": "Soulac sur Mer\n[Dépt:33] Frq:118.45",
 		"latitude": "+45.49",
@@ -4062,7 +4062,7 @@
 	{
 		"altitude": "505",
 		"category": "CAP",
-		"code": " LFST ",
+		"code": "LFST",
 		"country": "LF",
 		"info": "Strasbourg Entzheim\n[Dépt:67] Frq:119.25",
 		"latitude": "+48.54",
@@ -4072,7 +4072,7 @@
 	{
 		"altitude": "459",
 		"category": "CAP",
-		"code": " LFGC ",
+		"code": "LFGC",
 		"country": "LF",
 		"info": "Strasbourg Neuhof\n[Dépt:67] Frq:126.875",
 		"latitude": "+48.55",
@@ -4082,7 +4082,7 @@
 	{
 		"altitude": "1 075",
 		"category": "CAP",
-		"code": " LFDT ",
+		"code": "LFDT",
 		"country": "LF",
 		"info": "Tarbes Laloubère\n[Dépt:65] Frq:122.6",
 		"latitude": "+43.22",
@@ -4092,7 +4092,7 @@
 	{
 		"altitude": "1 260",
 		"category": "CAP",
-		"code": " LFBT ",
+		"code": "LFBT",
 		"country": "LF",
 		"info": "Tarbes Lourdes Pyrénées\n[Dépt:65] Frq:119.05",
 		"latitude": "+43.19",
@@ -4102,7 +4102,7 @@
 	{
 		"altitude": "341",
 		"category": "CAP",
-		"code": " LFCT ",
+		"code": "LFCT",
 		"country": "LF",
 		"info": "Thouars\n[Dépt:79] Frq:123.35",
 		"latitude": "+46.96",
@@ -4112,7 +4112,7 @@
 	{
 		"altitude": "939",
 		"category": "CAP",
-		"code": " LFET ",
+		"code": "LFET",
 		"country": "LF",
 		"info": "Til Chatel\n[Dépt:21] Frq:123.5",
 		"latitude": "+47.55",
@@ -4122,7 +4122,7 @@
 	{
 		"altitude": "499",
 		"category": "CAP",
-		"code": " LFBO ",
+		"code": "LFBO",
 		"country": "LF",
 		"info": "Toulouse Blagnac\n[Dépt:31] Frq:118.1",
 		"latitude": "+43.63",
@@ -4132,7 +4132,7 @@
 	{
 		"altitude": "535",
 		"category": "CAP",
-		"code": " LFBF ",
+		"code": "LFBF",
 		"country": "LF",
 		"info": "Toulouse Francazal\n[Dépt:31] Frq:118.8",
 		"latitude": "+43.55",
@@ -4142,7 +4142,7 @@
 	{
 		"altitude": "460",
 		"category": "CAP",
-		"code": " LFCL ",
+		"code": "LFCL",
 		"country": "LF",
 		"info": "Toulouse Lasbordes\n[Dépt:31] Frq:122.7",
 		"latitude": "+43.59",
@@ -4152,7 +4152,7 @@
 	{
 		"altitude": "299",
 		"category": "CAP",
-		"code": " LFEN ",
+		"code": "LFEN",
 		"country": "LF",
 		"info": "Tours Sorigny\n[Dépt:37] Frq:123.5",
 		"latitude": "+47.27",
@@ -4162,7 +4162,7 @@
 	{
 		"altitude": "357",
 		"category": "CAP/Mil",
-		"code": " LFOT ",
+		"code": "LFOT",
 		"country": "LF",
 		"info": "Tours Val de Loire\n[Dépt:37] Frq:118.3",
 		"latitude": "+47.43",
@@ -4172,7 +4172,7 @@
 	{
 		"altitude": "538",
 		"category": "CAP",
-		"code": " LFPN ",
+		"code": "LFPN",
 		"country": "LF",
 		"info": "Toussus le Noble\n[Dépt:78] Frq:120.75",
 		"latitude": "+48.75",
@@ -4182,7 +4182,7 @@
 	{
 		"altitude": "389",
 		"category": "CAP",
-		"code": " LFQB ",
+		"code": "LFQB",
 		"country": "LF",
 		"info": "Troyes Barberey\n[Dépt:10] Frq:123.725",
 		"latitude": "+48.32",
@@ -4192,7 +4192,7 @@
 	{
 		"altitude": "2 427",
 		"category": "CAP",
-		"code": " LFCU ",
+		"code": "LFCU",
 		"country": "LF",
 		"info": "Ussel Thalamy\n[Dépt:19] Frq:118.75",
 		"latitude": "+45.54",
@@ -4202,7 +4202,7 @@
 	{
 		"altitude": "525",
 		"category": "CAP",
-		"code": " LFLU ",
+		"code": "LFLU",
 		"country": "LF",
 		"info": "Valence Chabeuil\n[Dépt:26] Frq:120.1",
 		"latitude": "+44.92",
@@ -4212,7 +4212,7 @@
 	{
 		"altitude": "165",
 		"category": "CAP",
-		"code": " LFAV ",
+		"code": "LFAV",
 		"country": "LF",
 		"info": "Valenciennes Denain\n[Dépt:59] Frq:122.6",
 		"latitude": "+50.32",
@@ -4222,7 +4222,7 @@
 	{
 		"altitude": "472",
 		"category": "CAP",
-		"code": " LFNV ",
+		"code": "LFNV",
 		"country": "LF",
 		"info": "Valréas Visan\n[Dépt:84] Frq:123.5",
 		"latitude": "+44.34",
@@ -4232,7 +4232,7 @@
 	{
 		"altitude": "440",
 		"category": "CAP",
-		"code": " LFRV ",
+		"code": "LFRV",
 		"country": "LF",
 		"info": "Vannes Meucon\n[Dépt:56] Frq:122.6",
 		"latitude": "+47.72",
@@ -4242,7 +4242,7 @@
 	{
 		"altitude": "584",
 		"category": "Mil",
-		"code": " LFPV ",
+		"code": "LFPV",
 		"country": "LF",
 		"info": "Vélizy Villacoublay\n[Dépt:78] Frq:122.1",
 		"latitude": "+48.77",
@@ -4252,7 +4252,7 @@
 	{
 		"altitude": "1 236",
 		"category": "CAP",
-		"code": " LFGW ",
+		"code": "LFGW",
 		"country": "LF",
 		"info": "Verdun Sommedieue\n[Dépt:55] Frq:125.25",
 		"latitude": "+49.12",
@@ -4262,7 +4262,7 @@
 	{
 		"altitude": "1 249",
 		"category": "CAP",
-		"code": " LFQW ",
+		"code": "LFQW",
 		"country": "LF",
 		"info": "Vesoul Frotey\n[Dépt:70] Frq:118.15",
 		"latitude": "+47.64",
@@ -4272,7 +4272,7 @@
 	{
 		"altitude": "817",
 		"category": "CAP",
-		"code": " LFLV ",
+		"code": "LFLV",
 		"country": "LF",
 		"info": "Vichy Charmeil\n[Dépt:03] Frq:121.4",
 		"latitude": "+46.17",
@@ -4282,7 +4282,7 @@
 	{
 		"altitude": "720",
 		"category": "CAP",
-		"code": " LFHH ",
+		"code": "LFHH",
 		"country": "LF",
 		"info": "Vienne Reventin\n[Dépt:38] Frq:123.5",
 		"latitude": "+45.46",
@@ -4292,7 +4292,7 @@
 	{
 		"altitude": "1 104",
 		"category": "CAP",
-		"code": " LFCV ",
+		"code": "LFCV",
 		"country": "LF",
 		"info": "Villefranche de Rouergue\n[Dépt:12] Frq:123.5",
 		"latitude": "+44.37",
@@ -4302,7 +4302,7 @@
 	{
 		"altitude": "1 076",
 		"category": "CAP",
-		"code": " LFHV ",
+		"code": "LFHV",
 		"country": "LF",
 		"info": "Villefranche Tarare\n[Dépt:69] Frq:118.25",
 		"latitude": "+45.92",
@@ -4312,7 +4312,7 @@
 	{
 		"altitude": "193",
 		"category": "CAP",
-		"code": " LFCW ",
+		"code": "LFCW",
 		"country": "LF",
 		"info": "Villeneuve sur Lot\n[Dépt:47] Frq:123.6",
 		"latitude": "+44.40",
@@ -4322,7 +4322,7 @@
 	{
 		"altitude": "903",
 		"category": "CAP",
-		"code": " LFNF ",
+		"code": "LFNF",
 		"country": "LF",
 		"info": "Vinon\n[Dépt:83] Frq:118.15",
 		"latitude": "+43.74",
@@ -4332,7 +4332,7 @@
 	{
 		"altitude": "174",
 		"category": "CAP",
-		"code": " LFQS ",
+		"code": "LFQS",
 		"country": "LF",
 		"info": "Vitry en Artois\n[Dépt:62] Frq:123.5",
 		"latitude": "+50.34",
@@ -4342,7 +4342,7 @@
 	{
 		"altitude": "411",
 		"category": "CAP",
-		"code": " LFSK ",
+		"code": "LFSK",
 		"country": "LF",
 		"info": "Vitry le François Vauclerc\n[Dépt:51] Frq:123.5",
 		"latitude": "+48.70",
@@ -4352,7 +4352,7 @@
 	{
 		"altitude": "2 635",
 		"category": "Hydro-Surf",
-		"code": " LF1255 ",
+		"code": "LF1255",
 		"country": "LF",
 		"info": "Barrage de Pareloup\n[Dépt:12] Frq:auto-info 123.5",
 		"latitude": "+44.21",
@@ -4362,7 +4362,7 @@
 	{
 		"altitude": "",
 		"category": "Hydro-Surf",
-		"code": " LF1756 ",
+		"code": "LF1756",
 		"country": "LF",
 		"info": "Bourcefranc\n[Dépt:17] Frq:Auto-info 123.5",
 		"latitude": "+45.87",
@@ -4372,7 +4372,7 @@
 	{
 		"altitude": "",
 		"category": "Hydro-Surf",
-		"code": " LF8359 ",
+		"code": "LF8359",
 		"country": "LF",
 		"info": "Golfe de Fréjus\n[Dépt:83] Frq:Auto-info 123.5",
 		"latitude": "+43.33",
@@ -4382,7 +4382,7 @@
 	{
 		"altitude": "",
 		"category": "Hydro-Surf",
-		"code": " LF0651 ",
+		"code": "LF0651",
 		"country": "LF",
 		"info": "Juan Les Pins\n[Dépt:06] Frq:Auto-info 123.5",
 		"latitude": "+43.57",
@@ -4392,7 +4392,7 @@
 	{
 		"altitude": "",
 		"category": "Hydro-Surf",
-		"code": " LF1353 ",
+		"code": "LF1353",
 		"country": "LF",
 		"info": "La Ciotat\n[Dépt:13] Frq:Auto info 123,5",
 		"latitude": "+43.17",
@@ -4402,7 +4402,7 @@
 	{
 		"altitude": "2 174",
 		"category": "Hydro-Surf",
-		"code": " LF3464 ",
+		"code": "LF3464",
 		"country": "LF",
 		"info": "La Raviège\n[Dépt:34] Frq:auto-info 123.5",
 		"latitude": "+43.59",
@@ -4412,7 +4412,7 @@
 	{
 		"altitude": "",
 		"category": "Hydro-Surf",
-		"code": " LF5154 ",
+		"code": "LF5154",
 		"country": "LF",
 		"info": "Lac du Der\n[Dépt:51] Frq:134,77",
 		"latitude": "+48.57",
@@ -4422,7 +4422,7 @@
 	{
 		"altitude": "816",
 		"category": "Hydro-Surf",
-		"code": " LF7034 ",
+		"code": "LF7034",
 		"country": "LF",
 		"info": "Lacs de Bonnal\n[Dépt:70]",
 		"latitude": "+47.52",
@@ -4432,7 +4432,7 @@
 	{
 		"altitude": "",
 		"category": "Hydro-Surf",
-		"code": " LF1301 ",
+		"code": "LF1301",
 		"country": "LF",
 		"info": "Martigues-Henri Fabre\n[Dépt:13]",
 		"latitude": "+43.42",
@@ -4442,7 +4442,7 @@
 	{
 		"altitude": "620",
 		"category": "Hydro-Surf",
-		"code": " LF0159 ",
+		"code": "LF0159",
 		"country": "LF",
 		"info": "Montrevel en Bresse\n[Dépt:01] Frq:Auto-info 123.5",
 		"latitude": "+46.34",
@@ -4452,7 +4452,7 @@
 	{
 		"altitude": "767",
 		"category": "Hydro-Surf",
-		"code": " LF0158 ",
+		"code": "LF0158",
 		"country": "LF",
 		"info": "Rhône-Lavours\n[Dépt:01] Frq:Auto-info 123.5",
 		"latitude": "+45.81",
@@ -4462,7 +4462,7 @@
 	{
 		"altitude": "2 385",
 		"category": "Hydro-Surf",
-		"code": " LF1231 ",
+		"code": "LF1231",
 		"country": "LF",
 		"info": "Villefranche-de-Panat\n[Dépt:12] Frq:Auto-info 123.5",
 		"latitude": "+44.10",

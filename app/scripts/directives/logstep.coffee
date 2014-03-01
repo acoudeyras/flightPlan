@@ -9,9 +9,9 @@
       comment: '='
     templateUrl: 'scripts/directives/logstep.html'
     controller: ($scope, $attrs) ->
-      $scope.$watch('[comment, editing]', ->
+      $scope.$watch '[comment, editing]', ->
         $scope.showCommentLabel = $scope.comment != '' || $scope.editing
-      , true)
+      , true
       $scope.editing = false
       $scope.toggleEdit = -> $scope.editing = !$scope.editing
 

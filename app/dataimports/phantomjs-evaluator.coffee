@@ -18,16 +18,15 @@ init = (callback) ->
       page = pageCreated
       callback()
     )
-  )  
+  )
 
 exports.loadPage = (url, evalCb, resultCb) ->
-  init(->
+  init ->
     page.open(url, (err,status) ->
       return callback(err) if err
       
       page.evaluate(evalCb, resultCb)
     )
-  )
 
 exports.exit = -> ph.exit()
 
