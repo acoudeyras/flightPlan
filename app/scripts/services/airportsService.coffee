@@ -1,14 +1,14 @@
-(->
+do ->
   'use strict'
 
   class Airport
-    
-
 
   class AirportService
-    constructor: () ->
-      
+    constructor: ->
+
+
+  class PointsService
+    all: ->
+
 
   angular.module('flightPlanApp').factory('airportsService', AirportService)
-  
-)()

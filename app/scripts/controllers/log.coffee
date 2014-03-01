@@ -1,4 +1,4 @@
-(->
+do ->
   'use strict'
 
   class LogCtrl
@@ -16,5 +16,3 @@
 
 
   angular.module('flightPlanApp').controller 'LogCtrl', LogCtrl
-
-)()

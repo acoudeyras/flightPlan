@@ -1,4 +1,4 @@
-(->
+do ->
   'use strict'
 
   angular.module('flightPlanApp').controller('MainCtrl', ($scope) ->
@@ -12,4 +12,3 @@
     $scope.hello = 'world'
 
   )
-)()

@@ -1,4 +1,4 @@
-(->
+do ->
   'use strict'
 
   angular.module('flightPlanApp', [
@@ -23,4 +23,3 @@
           redirectTo: '/'
         )
     )
-)()

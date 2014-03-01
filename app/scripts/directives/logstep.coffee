@@ -1,4 +1,4 @@
-(->
+do ->
   'use strict'
 
   angular.module('flightPlanApp').directive('logstep', ->
@@ -16,4 +16,3 @@
       $scope.toggleEdit = -> $scope.editing = !$scope.editing
 
   )
-)()
