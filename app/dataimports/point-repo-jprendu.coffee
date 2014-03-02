@@ -7,7 +7,7 @@ extract =  ->
   airportCategories = ['CAP', 'CAP/Mil']
   vorsCategories = ['VOR', 'VOR/DME', 'VORTAC']
 
-  airportMapping = 
+  airportMapping =
     'Déclinaison': 'declination'
     'Altitude': 'altitude'
     'CONTACTS Téléphoniques': 'phoneContacts'

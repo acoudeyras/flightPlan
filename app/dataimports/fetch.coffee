@@ -2,19 +2,16 @@
 
 fs = require 'fs'
 
-pointsRetriever = require './points-retriever'
-pointRetriever = require './point-retriever'
+#pointsRetriever = require './points-repo-jprendu'
+pointsRetriever = require './points-repo-local'
+#pointRetriever = require './point-repo-local'
+pointRetriever = require './point-repo-jprendu'
 phantomEval = require './phantomjs-evaluator'
 helpers = require './helpers'
 
 save = (outputPath, data, callback) ->
   data = JSON.stringify(data, null, '\t') if typeof data isnt 'string'
   fs.writeFile outputPath, data, callback
-
-pointListFromLocal = (callback) ->
-  fs.readFile './data/points-list.json', (err, data) ->
-    return callback err if err
-    callback null, JSON.parse(data)
 
 
 readPoints = (points, current, next) ->
@@ -35,7 +32,7 @@ readPoints = (points, current, next) ->
         console.log err if err
       readPoints points, ++current, next
 
-pointListFromLocal (err, points) ->
+pointsRetriever.pointList (err, points) ->
   return console.log err if err
   save './data/points-list.json', points, (err) ->
     return console.log err if err

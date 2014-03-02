@@ -141,7 +141,7 @@ module.exports = function(grunt) {
     },
 
     coffeelint: {
-      app: ['app/**/*.coffee', 'test/**/*.coffee']
+      app: ['app/scripts/**/*.coffee', 'test/**/*.coffee']
     },
 
     // Add vendor prefixed styles
