@@ -4,9 +4,9 @@
     return $routeProvider.when('/', {
       templateUrl: 'views/main.html',
       controller: 'MainCtrl'
-    }).when('/log', {
-      templateUrl: 'views/log.html',
-      controller: 'LogCtrl'
+    }).when('/points-selection', {
+      templateUrl: 'views/points-selection.html',
+      controller: 'PointSelectionCtrl'
     }).otherwise({
       redirectTo: '/'
     });

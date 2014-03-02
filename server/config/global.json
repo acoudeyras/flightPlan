@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "flightPlan"
+        }, 
+        "flightPlan": {
+            "applicationId": "IKEiwnzgURrngabC1gxIZFF5O0jPfz0D1DzWjsHO", 
+            "masterKey": "eKGyP22LruEWaP0BAFH4HvbJB7HBISc338QxQtGF"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.17"
+    }
+}

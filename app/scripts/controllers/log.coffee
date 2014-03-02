@@ -1,10 +1,8 @@
-deb = null
-
 do ->
   'use strict'
 
   logCtrl = ($scope, pointsService) ->
-    deb = $scope.airports = pointsService.all()
+    $scope.airports = pointsService.all()
     $scope.steps = [
       { airport: 'lfpz', comment: '' }
       { airport: 'lfyr', comment: 'stop here' }

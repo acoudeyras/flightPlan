@@ -1,6 +1,12 @@
 do ->
   'use strict'
 
+  parseHelpers =
+    eq: (field, val) ->
+      """{"#{field}":#{val}}"""
+    like: (field, val) ->
+      @eq field, """{"$regex":"#{val}"}"""
+
   class PointsService
     constructor: ($resource) ->
       @Point = $resource 'https://api.parse.com/1/classes/Point', {},
@@ -17,6 +23,9 @@ do ->
         get: -> "#{@name} (#{@code})"
 
     all: -> @Point.query()
+    query: (term) ->
+      return @Point.query() if term.trim() is ''
+      @Point.query where: parseHelpers.like 'code', term
     get: (code) ->
 
   PointsService.$inject = ['$resource']

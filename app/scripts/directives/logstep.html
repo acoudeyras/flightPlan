@@ -11,7 +11,7 @@
         <label>Airport</label>
         <div class="form-group">
           <span ng-hide="editing">{{airport}}</span>
-          <select ui-select2="select2Options" ng-model="airport" ng-required="true" ng-show="editing" data-placeholder="Pick an airport">
+          <select ui-select2="select2Options" ng-model="airport" ng-required="true" ng-show="editing" data-placeholder="Pick an airport" style="width:50%">
             <option value=""></option>
             <option ng-repeat="airport in airports" value="{{airport.code}}">{{airport.fullName}}</option>
           </select>
