@@ -8,13 +8,12 @@ do ->
       @eq field, """{"$regex":"#{val}"}"""
     beginWith: (field, val) ->
       @eq field, """{"$regex":"^#{val}"}"""
-    ftsearchold: (field, val) ->
-      val = val.trim().toLowerCase()
-      @eq field, """{"$regex":"^#{val}"}"""
     ftsearch: (field, val) ->
       val = val.trim().toLowerCase()
       beginVal = """{"$regex":"^#{val}"}"""
-      @eq field, """{"$in":[#{beginVal}]}"""
+      #beginVal = '"' + val + '"'
+      beginVal = '"' + val + '"'
+      @eq field, """{"$all":[#{beginVal}]}"""
 
   class PointsService
     constructor: ($resource) ->
@@ -34,8 +33,9 @@ do ->
     all: -> @Point.query()
     query: (term) ->
       return @Point.query() if term.trim() is ''
-      alert(parseHelpers.ftsearch 'words', term)
-      @Point.query where: parseHelpers.ftsearch 'words', term
+      whereClause = parseHelpers.ftsearch 'words', term
+      alert whereClause
+      @Point.query where: whereClause
     get: (code) ->
 
   PointsService.$inject = ['$resource']

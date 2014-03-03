@@ -12,15 +12,12 @@
     beginWith: function(field, val) {
       return this.eq(field, "{\"$regex\":\"^" + val + "\"}");
     },
-    ftsearchold: function(field, val) {
-      val = val.trim().toLowerCase();
-      return this.eq(field, "{\"$regex\":\"^" + val + "\"}");
-    },
     ftsearch: function(field, val) {
       var beginVal;
       val = val.trim().toLowerCase();
       beginVal = "{\"$regex\":\"^" + val + "\"}";
-      return this.eq(field, "{\"$in\":[" + beginVal + "]}");
+      beginVal = '"' + val + '"';
+      return this.eq(field, "{\"$all\":[" + beginVal + "]}");
     }
   };
   PointsService = (function() {
@@ -51,12 +48,14 @@
     };
 
     PointsService.prototype.query = function(term) {
+      var whereClause;
       if (term.trim() === '') {
         return this.Point.query();
       }
-      alert(parseHelpers.ftsearch('words', term));
+      whereClause = parseHelpers.ftsearch('words', term);
+      alert(whereClause);
       return this.Point.query({
-        where: parseHelpers.ftsearch('words', term)
+        where: whereClause
       });
     };
 

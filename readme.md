@@ -1,5 +1,0 @@
-Application ID: IKEiwnzgURrngabC1gxIZFF5O0jPfz0D1DzWjsHO
-Client Key: 2i0uMeueuFxdn2kNQRrtDgCY2IkP0sVGbPsZQBsM
-Javascript Key: v1m0DjVuyEvS9jaJWhCVzIkRnBVt9Go0CLdgxC59
-REST API Key: dCHVZQBmSm1FcYLI3KSHC4YwRSWoT5sh6I33wfD4
-Master Key: eKGyP22LruEWaP0BAFH4HvbJB7HBISc338QxQtGF
